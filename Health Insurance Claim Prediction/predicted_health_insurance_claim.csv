@@ -1,0 +1,1333 @@
+age,gender,bmi,bloodpressure,diabetic,children,smoker,region,claim,age_group,bmi_group,bloodpressure_group
+39.0,male,23.2,91,diabetic,none,non-smoker,southeast,1121.87,Millennials,Healthy Weight,Normal Blood Pressure
+24.0,male,30.1,87,non-diabetic,none,non-smoker,southeast,1131.51,Gen Z,Obese,Normal Blood Pressure
+19.0,male,41.1,100,non-diabetic,none,non-smoker,northwest,1146.8,Gen Z,Obese,Normal Blood Pressure
+20.0,male,43.0,86,non-diabetic,none,non-smoker,northwest,1149.4,Gen Z,Obese,Normal Blood Pressure
+30.0,male,53.1,97,non-diabetic,none,non-smoker,northwest,1163.46,Millennials,Obese,Normal Blood Pressure
+36.0,male,19.8,88,diabetic,none,non-smoker,northwest,1241.57,Millennials,Healthy Weight,Normal Blood Pressure
+37.0,male,20.3,90,diabetic,none,non-smoker,northwest,1242.26,Millennials,Healthy Weight,Normal Blood Pressure
+19.0,male,20.7,81,non-diabetic,none,non-smoker,northwest,1242.82,Gen Z,Healthy Weight,Normal Blood Pressure
+35.0,male,34.1,90,non-diabetic,none,non-smoker,southwest,1261.44,Millennials,Obese,Normal Blood Pressure
+41.0,male,34.4,84,non-diabetic,none,non-smoker,southwest,1261.86,Millennials,Obese,Normal Blood Pressure
+49.0,male,35.4,97,diabetic,none,non-smoker,southwest,1263.25,Gen X,Obese,Normal Blood Pressure
+48.0,male,33.3,91,diabetic,none,non-smoker,southeast,1391.53,Gen X,Obese,Normal Blood Pressure
+45.0,male,23.2,85,diabetic,none,non-smoker,southeast,1515.34,Millennials,Healthy Weight,Normal Blood Pressure
+34.0,male,31.1,96,non-diabetic,none,non-smoker,southwest,1526.31,Millennials,Obese,Normal Blood Pressure
+18.0,male,35.5,100,diabetic,none,non-smoker,southeast,1532.47,Gen Z,Obese,Normal Blood Pressure
+42.0,male,36.9,93,non-diabetic,none,non-smoker,southeast,1534.3,Millennials,Obese,Normal Blood Pressure
+50.0,female,20.8,85,diabetic,none,non-smoker,southeast,1607.51,Gen X,Healthy Weight,Normal Blood Pressure
+23.0,male,43.0,86,non-diabetic,none,non-smoker,northwest,1149.4,Gen Z,Obese,Normal Blood Pressure
+36.0,female,26.7,97,diabetic,none,non-smoker,southeast,1615.77,Millennials,Overweight,Normal Blood Pressure
+30.0,male,17.5,93,diabetic,none,non-smoker,northwest,1621.34,Millennials,Underweight,Normal Blood Pressure
+58.0,female,31.1,87,non-diabetic,none,non-smoker,southeast,1621.88,Gen X,Obese,Normal Blood Pressure
+35.0,female,31.4,93,non-diabetic,none,non-smoker,southeast,1622.19,Millennials,Obese,Normal Blood Pressure
+29.0,male,20.4,80,diabetic,none,non-smoker,northwest,1625.43,Millennials,Healthy Weight,Normal Blood Pressure
+49.0,male,21.8,80,non-diabetic,none,non-smoker,northwest,1627.28,Gen X,Healthy Weight,Normal Blood Pressure
+21.0,male,22.6,96,diabetic,none,non-smoker,northwest,1628.47,Gen Z,Healthy Weight,Normal Blood Pressure
+52.0,female,36.9,81,non-diabetic,none,non-smoker,southeast,1629.83,Gen X,Obese,Normal Blood Pressure
+43.0,female,38.2,86,diabetic,none,non-smoker,southeast,1631.67,Millennials,Obese,Normal Blood Pressure
+47.0,female,38.3,93,non-diabetic,none,non-smoker,southeast,1631.82,Gen X,Obese,Normal Blood Pressure
+48.0,male,25.2,98,non-diabetic,none,non-smoker,northwest,1632.04,Gen X,Overweight,Normal Blood Pressure
+34.0,male,25.6,83,non-diabetic,none,non-smoker,northwest,1632.56,Millennials,Overweight,Normal Blood Pressure
+28.0,female,39.2,87,non-diabetic,none,non-smoker,southeast,1633.04,Gen Z,Obese,Normal Blood Pressure
+49.0,female,39.8,100,diabetic,none,non-smoker,southeast,1633.96,Gen X,Obese,Normal Blood Pressure
+29.0,female,40.3,94,non-diabetic,none,non-smoker,southeast,1634.57,Millennials,Obese,Normal Blood Pressure
+18.0,male,27.8,93,non-diabetic,none,non-smoker,northwest,1635.73,Gen Z,Overweight,Normal Blood Pressure
+32.0,male,30.6,93,non-diabetic,none,non-smoker,northwest,1639.56,Millennials,Obese,Normal Blood Pressure
+44.0,male,30.6,82,non-diabetic,none,non-smoker,northwest,1639.56,Millennials,Obese,Normal Blood Pressure
+37.0,male,35.5,91,non-diabetic,none,non-smoker,northwest,1646.43,Millennials,Obese,Normal Blood Pressure
+29.0,male,26.8,94,diabetic,none,non-smoker,southeast,1665.0,Millennials,Overweight,Normal Blood Pressure
+24.0,male,33.8,89,non-diabetic,none,non-smoker,southeast,1674.63,Gen Z,Obese,Normal Blood Pressure
+31.0,male,39.5,80,diabetic,none,non-smoker,southwest,1682.6,Millennials,Obese,Normal Blood Pressure
+34.0,male,16.0,83,non-diabetic,none,non-smoker,northeast,1694.8,Millennials,Underweight,Normal Blood Pressure
+30.0,male,21.5,83,diabetic,none,non-smoker,northeast,1702.46,Millennials,Healthy Weight,Normal Blood Pressure
+45.0,male,23.0,81,diabetic,none,non-smoker,northeast,1704.57,Millennials,Healthy Weight,Normal Blood Pressure
+31.0,male,23.1,81,diabetic,none,non-smoker,northwest,1704.7,Millennials,Healthy Weight,Normal Blood Pressure
+30.0,male,23.8,91,diabetic,none,non-smoker,northwest,1705.62,Millennials,Healthy Weight,Normal Blood Pressure
+34.0,male,25.5,82,diabetic,none,non-smoker,northwest,1708.0,Millennials,Overweight,Normal Blood Pressure
+21.0,male,26.1,87,diabetic,none,non-smoker,northwest,1708.93,Gen Z,Overweight,Normal Blood Pressure
+21.0,male,23.3,80,diabetic,one,non-smoker,northwest,1711.03,Gen Z,Healthy Weight,Normal Blood Pressure
+23.0,male,28.5,88,diabetic,none,non-smoker,northwest,1712.23,Gen Z,Overweight,Normal Blood Pressure
+32.0,male,29.4,97,non-diabetic,one,non-smoker,southeast,1719.44,Millennials,Overweight,Normal Blood Pressure
+50.0,male,30.0,88,non-diabetic,one,non-smoker,southeast,1720.35,Gen X,Obese,Normal Blood Pressure
+47.0,male,33.8,90,non-diabetic,one,non-smoker,southeast,1725.55,Gen X,Obese,Normal Blood Pressure
+49.0,male,35.2,80,diabetic,one,non-smoker,southeast,1727.54,Gen X,Obese,Normal Blood Pressure
+32.0,female,17.8,90,non-diabetic,none,non-smoker,southwest,1727.79,Millennials,Underweight,Normal Blood Pressure
+51.0,female,18.6,98,diabetic,none,non-smoker,southwest,1728.9,Gen X,Healthy Weight,Normal Blood Pressure
+60.0,female,20.6,90,non-diabetic,none,non-smoker,southwest,1731.68,Baby Boomers,Healthy Weight,Normal Blood Pressure
+32.0,female,24.7,89,non-diabetic,none,non-smoker,southwest,1737.38,Millennials,Healthy Weight,Normal Blood Pressure
+51.0,female,28.9,87,diabetic,none,non-smoker,southwest,1743.21,Gen X,Overweight,Normal Blood Pressure
+27.0,female,29.8,100,non-diabetic,none,non-smoker,southwest,1744.47,Gen Z,Overweight,Normal Blood Pressure
+39.0,female,32.9,99,diabetic,none,non-smoker,southwest,1748.77,Millennials,Obese,Normal Blood Pressure
+26.0,female,40.5,87,diabetic,none,non-smoker,southwest,1759.34,Gen Z,Obese,Normal Blood Pressure
+32.0,male,29.7,80,diabetic,none,non-smoker,northwest,1769.53,Millennials,Overweight,Normal Blood Pressure
+28.0,male,26.5,88,diabetic,none,non-smoker,southeast,1815.88,Gen Z,Overweight,Normal Blood Pressure
+48.0,male,32.6,80,diabetic,none,non-smoker,southeast,1824.29,Gen X,Obese,Normal Blood Pressure
+22.0,male,34.4,98,diabetic,none,non-smoker,southwest,1826.84,Gen Z,Obese,Normal Blood Pressure
+20.0,male,20.9,98,non-diabetic,one,non-smoker,southwest,1832.09,Gen Z,Healthy Weight,Normal Blood Pressure
+50.0,male,24.6,90,non-diabetic,one,non-smoker,southwest,1837.24,Gen X,Healthy Weight,Normal Blood Pressure
+30.0,male,41.9,95,diabetic,none,non-smoker,southeast,1837.28,Millennials,Obese,Normal Blood Pressure
+38.0,male,28.4,87,non-diabetic,one,non-smoker,southwest,1842.52,Millennials,Overweight,Normal Blood Pressure
+50.0,female,29.6,95,non-diabetic,none,non-smoker,southwest,1875.34,Gen X,Overweight,Normal Blood Pressure
+42.0,female,31.5,100,non-diabetic,none,non-smoker,southeast,1877.93,Millennials,Obese,Normal Blood Pressure
+53.0,female,33.0,83,diabetic,none,non-smoker,southeast,1880.07,Gen X,Obese,Normal Blood Pressure
+26.0,female,33.3,83,diabetic,none,non-smoker,southwest,1880.49,Gen Z,Obese,Normal Blood Pressure
+43.0,male,29.0,91,diabetic,none,non-smoker,northwest,1906.36,Millennials,Overweight,Normal Blood Pressure
+42.0,male,31.3,98,non-diabetic,none,non-smoker,northwest,1909.53,Millennials,Obese,Normal Blood Pressure
+43.0,male,36.9,91,diabetic,none,non-smoker,northwest,1917.32,Millennials,Obese,Normal Blood Pressure
+36.0,male,22.0,88,diabetic,one,non-smoker,southwest,1964.78,Millennials,Healthy Weight,Normal Blood Pressure
+19.0,male,27.9,94,diabetic,none,non-smoker,northeast,1967.02,Gen Z,Overweight,Normal Blood Pressure
+19.0,male,23.4,97,non-diabetic,none,non-smoker,northwest,1969.61,Gen Z,Healthy Weight,Normal Blood Pressure
+37.0,male,25.8,86,non-diabetic,none,non-smoker,northwest,1972.95,Millennials,Overweight,Normal Blood Pressure
+40.0,male,29.3,97,diabetic,none,non-smoker,northwest,1977.82,Millennials,Overweight,Normal Blood Pressure
+23.0,male,33.0,80,diabetic,one,non-smoker,northwest,1980.07,Gen Z,Obese,Normal Blood Pressure
+19.0,male,32.0,100,diabetic,none,non-smoker,southeast,1981.58,Gen Z,Obese,Normal Blood Pressure
+20.0,male,40.5,95,non-diabetic,none,non-smoker,southeast,1984.45,Gen Z,Obese,Normal Blood Pressure
+41.0,male,35.9,97,non-diabetic,none,non-smoker,southeast,1986.93,Millennials,Obese,Normal Blood Pressure
+26.0,female,25.8,100,diabetic,none,non-smoker,southwest,2007.95,Gen Z,Overweight,Normal Blood Pressure
+48.0,female,34.6,99,non-diabetic,none,non-smoker,southwest,2020.18,Gen X,Obese,Normal Blood Pressure
+54.0,female,34.9,90,non-diabetic,none,non-smoker,southeast,2020.55,Gen X,Obese,Normal Blood Pressure
+44.0,female,39.5,93,diabetic,none,non-smoker,southeast,2026.97,Millennials,Obese,Normal Blood Pressure
+44.0,male,25.2,91,non-diabetic,none,non-smoker,northwest,2045.69,Millennials,Overweight,Normal Blood Pressure
+47.0,male,32.1,81,non-diabetic,none,non-smoker,northwest,2055.32,Gen X,Obese,Normal Blood Pressure
+50.0,male,26.0,82,non-diabetic,none,non-smoker,northeast,2102.26,Gen X,Overweight,Normal Blood Pressure
+30.0,male,22.3,83,diabetic,one,non-smoker,southwest,2103.08,Millennials,Healthy Weight,Normal Blood Pressure
+33.0,male,27.4,100,non-diabetic,none,non-smoker,northeast,2104.11,Millennials,Overweight,Normal Blood Pressure
+59.0,female,22.5,87,non-diabetic,none,non-smoker,northwest,2117.34,Baby Boomers,Healthy Weight,Normal Blood Pressure
+42.0,female,30.5,99,non-diabetic,none,non-smoker,northwest,2128.43,Millennials,Obese,Normal Blood Pressure
+52.0,female,32.1,94,diabetic,none,non-smoker,northwest,2130.68,Gen X,Obese,Normal Blood Pressure
+43.0,female,35.2,80,non-diabetic,none,non-smoker,northwest,2134.9,Millennials,Obese,Normal Blood Pressure
+42.0,female,36.6,90,non-diabetic,none,non-smoker,northwest,2136.88,Millennials,Obese,Normal Blood Pressure
+33.0,male,25.7,100,diabetic,none,non-smoker,southeast,2137.65,Millennials,Overweight,Normal Blood Pressure
+26.0,female,37.4,83,diabetic,none,non-smoker,northwest,2138.07,Gen Z,Obese,Normal Blood Pressure
+41.0,female,24.3,91,diabetic,none,non-smoker,southwest,2150.47,Millennials,Healthy Weight,Normal Blood Pressure
+27.0,female,27.1,88,diabetic,none,non-smoker,southwest,2154.36,Gen Z,Overweight,Normal Blood Pressure
+37.0,female,28.1,80,non-diabetic,none,non-smoker,southeast,2155.68,Millennials,Overweight,Normal Blood Pressure
+43.0,female,28.8,88,diabetic,none,non-smoker,southeast,2156.75,Millennials,Overweight,Normal Blood Pressure
+30.0,female,36.0,80,non-diabetic,none,non-smoker,southwest,2166.73,Millennials,Obese,Normal Blood Pressure
+47.0,female,25.1,80,non-diabetic,none,non-smoker,southeast,2196.47,Gen X,Overweight,Normal Blood Pressure
+26.0,female,26.3,87,diabetic,none,non-smoker,southeast,2198.19,Gen Z,Overweight,Normal Blood Pressure
+49.0,female,28.2,98,diabetic,none,non-smoker,southeast,2200.83,Gen X,Overweight,Normal Blood Pressure
+59.0,female,24.1,82,non-diabetic,one,non-smoker,southeast,2201.1,Baby Boomers,Healthy Weight,Normal Blood Pressure
+58.0,female,30.1,81,diabetic,none,non-smoker,southeast,2203.47,Gen X,Obese,Normal Blood Pressure
+32.0,female,30.3,94,diabetic,none,non-smoker,southeast,2203.74,Millennials,Obese,Normal Blood Pressure
+37.0,female,31.9,89,non-diabetic,none,non-smoker,southeast,2205.98,Millennials,Obese,Normal Blood Pressure
+48.0,female,33.2,97,non-diabetic,none,non-smoker,southeast,2207.7,Gen X,Obese,Normal Blood Pressure
+52.0,female,35.6,89,non-diabetic,none,non-smoker,southeast,2211.13,Gen X,Obese,Normal Blood Pressure
+55.0,female,40.2,82,non-diabetic,none,non-smoker,southeast,2217.47,Gen X,Obese,Normal Blood Pressure
+33.0,female,40.3,94,diabetic,none,non-smoker,southeast,2217.6,Millennials,Obese,Normal Blood Pressure
+53.0,female,37.3,88,diabetic,one,non-smoker,southeast,2219.45,Gen X,Obese,Normal Blood Pressure
+26.0,male,25.6,86,non-diabetic,one,non-smoker,northwest,2221.56,Gen Z,Overweight,Normal Blood Pressure
+49.0,male,28.9,81,non-diabetic,none,non-smoker,northwest,2250.84,Gen X,Overweight,Normal Blood Pressure
+31.0,male,31.7,90,non-diabetic,none,non-smoker,northwest,2254.8,Millennials,Obese,Normal Blood Pressure
+42.0,female,29.0,81,diabetic,none,non-smoker,northwest,2257.48,Millennials,Overweight,Normal Blood Pressure
+30.0,female,31.9,89,non-diabetic,none,non-smoker,northwest,2261.57,Millennials,Obese,Normal Blood Pressure
+45.0,male,20.8,88,non-diabetic,none,non-smoker,northwest,2302.3,Millennials,Healthy Weight,Normal Blood Pressure
+49.0,male,26.2,91,non-diabetic,two,non-smoker,southeast,2304.0,Gen X,Overweight,Normal Blood Pressure
+47.0,male,35.4,95,non-diabetic,none,non-smoker,southeast,2322.62,Gen X,Obese,Normal Blood Pressure
+47.0,female,28.4,87,diabetic,one,non-smoker,southwest,2331.52,Gen X,Overweight,Normal Blood Pressure
+29.0,male,23.7,89,diabetic,none,non-smoker,northwest,2352.97,Millennials,Healthy Weight,Normal Blood Pressure
+40.0,male,32.4,81,non-diabetic,one,non-smoker,northwest,2362.23,Millennials,Obese,Normal Blood Pressure
+21.0,male,23.8,95,diabetic,none,non-smoker,southeast,2395.17,Gen Z,Healthy Weight,Normal Blood Pressure
+32.0,male,24.5,90,diabetic,none,non-smoker,southeast,2396.1,Millennials,Healthy Weight,Normal Blood Pressure
+26.0,female,35.7,90,diabetic,none,non-smoker,northwest,2404.73,Gen Z,Obese,Normal Blood Pressure
+47.0,male,35.2,80,non-diabetic,one,non-smoker,southwest,2416.96,Gen X,Obese,Normal Blood Pressure
+46.0,male,50.4,89,diabetic,one,non-smoker,southeast,2438.06,Millennials,Obese,Normal Blood Pressure
+44.0,female,28.8,94,diabetic,none,non-smoker,southeast,2457.21,Millennials,Overweight,Normal Blood Pressure
+41.0,female,22.6,91,diabetic,none,non-smoker,southwest,2457.5,Millennials,Healthy Weight,Normal Blood Pressure
+37.0,female,30.6,96,diabetic,none,non-smoker,southeast,2459.72,Millennials,Obese,Normal Blood Pressure
+29.0,female,27.7,80,diabetic,none,non-smoker,southeast,2464.62,Millennials,Overweight,Normal Blood Pressure
+47.0,female,34.0,84,non-diabetic,none,non-smoker,southeast,2473.33,Gen X,Obese,Normal Blood Pressure
+35.0,female,39.5,82,diabetic,none,non-smoker,southeast,2480.98,Millennials,Obese,Normal Blood Pressure
+48.0,male,23.1,91,diabetic,none,non-smoker,southeast,2483.74,Gen X,Healthy Weight,Normal Blood Pressure
+22.0,male,30.5,82,non-diabetic,none,non-smoker,southwest,2494.02,Gen Z,Obese,Normal Blood Pressure
+41.0,male,32.7,93,non-diabetic,none,non-smoker,southeast,2497.04,Millennials,Obese,Normal Blood Pressure
+26.0,male,33.7,99,non-diabetic,none,non-smoker,southeast,2498.41,Gen Z,Obese,Normal Blood Pressure
+18.0,male,27.6,94,diabetic,none,non-smoker,northwest,2523.17,Gen Z,Overweight,Normal Blood Pressure
+28.0,female,20.2,82,non-diabetic,none,non-smoker,northwest,2527.82,Gen Z,Healthy Weight,Normal Blood Pressure
+33.0,male,35.6,98,non-diabetic,none,non-smoker,northwest,2534.39,Millennials,Obese,Normal Blood Pressure
+49.0,male,31.1,88,diabetic,two,non-smoker,southeast,2566.47,Gen X,Obese,Normal Blood Pressure
+33.0,female,17.4,87,non-diabetic,one,non-smoker,southwest,2585.27,Millennials,Underweight,Normal Blood Pressure
+43.0,female,22.1,82,diabetic,none,non-smoker,southeast,2585.85,Millennials,Healthy Weight,Normal Blood Pressure
+57.0,female,26.4,86,non-diabetic,one,non-smoker,southwest,2597.78,Gen X,Overweight,Normal Blood Pressure
+30.0,female,30.3,94,diabetic,none,non-smoker,southwest,2632.99,Millennials,Obese,Normal Blood Pressure
+42.0,male,28.3,86,diabetic,one,non-smoker,northwest,2639.04,Millennials,Overweight,Normal Blood Pressure
+21.0,male,31.4,91,non-diabetic,one,non-smoker,northwest,2643.27,Gen Z,Obese,Normal Blood Pressure
+47.0,male,17.7,92,diabetic,none,non-smoker,northwest,2680.95,Gen X,Underweight,Normal Blood Pressure
+28.0,male,38.1,81,diabetic,none,non-smoker,southeast,2689.5,Gen Z,Obese,Normal Blood Pressure
+52.0,female,28.1,90,diabetic,none,non-smoker,northwest,2690.11,Gen X,Overweight,Normal Blood Pressure
+30.0,male,31.1,91,non-diabetic,none,non-smoker,northwest,2699.57,Millennials,Obese,Normal Blood Pressure
+51.0,female,24.5,80,diabetic,one,non-smoker,northwest,2709.11,Gen X,Healthy Weight,Normal Blood Pressure
+58.0,female,24.6,87,diabetic,one,non-smoker,northwest,2709.24,Gen X,Healthy Weight,Normal Blood Pressure
+26.0,female,25.7,88,non-diabetic,one,non-smoker,northwest,2710.83,Gen Z,Overweight,Normal Blood Pressure
+41.0,female,31.8,88,diabetic,one,non-smoker,northwest,2719.28,Millennials,Obese,Normal Blood Pressure
+46.0,male,26.2,84,non-diabetic,none,non-smoker,southeast,2721.32,Millennials,Overweight,Normal Blood Pressure
+23.0,male,30.6,96,non-diabetic,none,non-smoker,southeast,2727.4,Gen Z,Obese,Normal Blood Pressure
+34.0,female,39.6,91,diabetic,one,non-smoker,northwest,2730.11,Millennials,Obese,Normal Blood Pressure
+29.0,female,23.2,80,non-diabetic,none,non-smoker,southeast,2731.91,Millennials,Healthy Weight,Normal Blood Pressure
+58.0,female,30.4,85,diabetic,none,non-smoker,southeast,2741.95,Gen X,Obese,Normal Blood Pressure
+59.0,female,39.8,81,diabetic,none,non-smoker,northeast,2755.02,Baby Boomers,Obese,Normal Blood Pressure
+30.0,male,17.4,89,non-diabetic,one,non-smoker,northwest,2775.19,Millennials,Underweight,Normal Blood Pressure
+49.0,male,27.4,91,non-diabetic,one,non-smoker,northwest,2789.06,Gen X,Overweight,Normal Blood Pressure
+60.0,female,32.1,98,non-diabetic,two,non-smoker,southeast,2801.26,Baby Boomers,Obese,Normal Blood Pressure
+49.0,male,20.6,92,non-diabetic,two,non-smoker,northwest,2803.7,Gen X,Healthy Weight,Normal Blood Pressure
+45.0,female,24.2,88,non-diabetic,none,non-smoker,northwest,2842.76,Millennials,Healthy Weight,Normal Blood Pressure
+54.0,female,29.9,90,non-diabetic,none,non-smoker,northwest,2850.68,Gen X,Overweight,Normal Blood Pressure
+27.0,female,33.3,92,diabetic,none,non-smoker,northwest,2855.44,Gen Z,Obese,Normal Blood Pressure
+37.0,male,27.2,87,diabetic,none,non-smoker,southwest,2866.09,Millennials,Overweight,Normal Blood Pressure
+48.0,male,27.9,82,diabetic,none,non-smoker,southeast,2867.12,Gen X,Overweight,Normal Blood Pressure
+49.0,male,29.5,92,non-diabetic,none,non-smoker,northeast,2897.32,Gen X,Overweight,Normal Blood Pressure
+25.0,female,34.9,100,non-diabetic,none,non-smoker,northeast,2899.49,Gen Z,Obese,Normal Blood Pressure
+20.0,male,29.2,95,non-diabetic,one,non-smoker,southeast,2902.91,Gen Z,Overweight,Normal Blood Pressure
+35.0,male,30.0,86,non-diabetic,one,non-smoker,southwest,2904.09,Millennials,Obese,Normal Blood Pressure
+37.0,female,23.4,96,non-diabetic,two,non-smoker,southwest,2913.57,Millennials,Healthy Weight,Normal Blood Pressure
+28.0,male,46.5,94,non-diabetic,one,non-smoker,southeast,2927.06,Gen Z,Obese,Normal Blood Pressure
+28.0,female,24.1,80,non-diabetic,none,non-smoker,southwest,2974.13,Gen Z,Healthy Weight,Normal Blood Pressure
+55.0,female,34.5,87,diabetic,none,non-smoker,northwest,3021.81,Gen X,Obese,Normal Blood Pressure
+54.0,female,25.3,100,non-diabetic,none,non-smoker,northeast,3044.21,Gen X,Overweight,Normal Blood Pressure
+57.0,female,26.6,83,non-diabetic,none,non-smoker,northeast,3046.06,Gen X,Overweight,Normal Blood Pressure
+33.0,female,31.8,98,diabetic,two,non-smoker,southeast,3056.39,Millennials,Obese,Normal Blood Pressure
+30.0,male,30.9,89,diabetic,none,non-smoker,northwest,3062.51,Millennials,Obese,Normal Blood Pressure
+49.0,male,26.0,98,diabetic,none,non-smoker,northeast,3070.81,Gen X,Overweight,Normal Blood Pressure
+25.0,male,23.0,81,diabetic,none,non-smoker,northeast,1704.57,Gen Z,Healthy Weight,Normal Blood Pressure
+38.0,male,23.8,99,diabetic,two,non-smoker,northwest,3077.1,Millennials,Healthy Weight,Normal Blood Pressure
+60.0,female,25.8,100,diabetic,none,non-smoker,southwest,3161.45,Baby Boomers,Overweight,Normal Blood Pressure
+59.0,female,16.8,96,diabetic,one,non-smoker,northeast,3167.46,Baby Boomers,Underweight,Normal Blood Pressure
+52.0,female,33.1,87,non-diabetic,none,non-smoker,southeast,3171.61,Gen X,Obese,Normal Blood Pressure
+35.0,female,33.4,99,non-diabetic,none,non-smoker,southwest,3172.02,Millennials,Obese,Normal Blood Pressure
+35.0,female,22.2,93,non-diabetic,none,non-smoker,northwest,3176.29,Millennials,Healthy Weight,Normal Blood Pressure
+48.0,female,22.6,94,non-diabetic,none,non-smoker,northwest,3176.82,Gen X,Healthy Weight,Normal Blood Pressure
+27.0,female,21.9,80,non-diabetic,two,non-smoker,southeast,3180.51,Gen Z,Healthy Weight,Normal Blood Pressure
+48.0,female,40.2,82,non-diabetic,none,non-smoker,northwest,3201.25,Gen X,Obese,Normal Blood Pressure
+45.0,female,23.5,96,non-diabetic,none,non-smoker,northeast,3206.49,Millennials,Healthy Weight,Normal Blood Pressure
+33.0,female,20.8,87,diabetic,one,non-smoker,southwest,3208.79,Millennials,Healthy Weight,Normal Blood Pressure
+59.0,female,28.6,82,non-diabetic,none,non-smoker,northeast,3213.62,Baby Boomers,Overweight,Normal Blood Pressure
+36.0,female,34.0,88,diabetic,one,non-smoker,southeast,3227.12,Millennials,Obese,Normal Blood Pressure
+46.0,female,42.1,89,non-diabetic,one,non-smoker,southeast,3238.44,Millennials,Obese,Normal Blood Pressure
+35.0,male,20.4,88,non-diabetic,none,non-smoker,southwest,3260.2,Millennials,Healthy Weight,Normal Blood Pressure
+43.0,male,35.4,86,diabetic,none,non-smoker,northeast,3268.85,Millennials,Obese,Normal Blood Pressure
+28.0,male,37.1,90,diabetic,one,non-smoker,southwest,3277.16,Gen Z,Obese,Normal Blood Pressure
+26.0,male,25.7,91,non-diabetic,two,non-smoker,northeast,3279.87,Gen Z,Overweight,Normal Blood Pressure
+23.0,male,33.9,81,non-diabetic,one,non-smoker,northwest,3292.53,Gen Z,Obese,Normal Blood Pressure
+48.0,male,25.8,82,diabetic,one,non-smoker,northeast,3309.79,Gen X,Overweight,Normal Blood Pressure
+49.0,female,25.9,97,non-diabetic,none,non-smoker,southwest,3353.28,Gen X,Overweight,Normal Blood Pressure
+41.0,female,21.5,92,non-diabetic,none,non-smoker,northwest,3353.47,Millennials,Healthy Weight,Normal Blood Pressure
+28.0,female,35.5,95,diabetic,none,non-smoker,southeast,3366.67,Gen Z,Obese,Normal Blood Pressure
+53.0,female,19.8,93,diabetic,one,non-smoker,southwest,3378.91,Gen X,Healthy Weight,Normal Blood Pressure
+28.0,female,28.8,99,diabetic,none,non-smoker,northeast,3385.4,Gen Z,Overweight,Normal Blood Pressure
+40.0,female,29.5,100,non-diabetic,one,non-smoker,southeast,3392.37,Millennials,Overweight,Normal Blood Pressure
+60.0,female,29.9,82,diabetic,one,non-smoker,southeast,3392.98,Baby Boomers,Overweight,Normal Blood Pressure
+35.0,female,38.7,85,non-diabetic,two,non-smoker,southeast,3393.36,Millennials,Obese,Normal Blood Pressure
+34.0,female,42.4,92,non-diabetic,one,non-smoker,southwest,3410.32,Millennials,Obese,Normal Blood Pressure
+40.0,male,34.8,81,non-diabetic,three,non-smoker,southwest,3443.06,Millennials,Obese,Normal Blood Pressure
+42.0,male,38.9,94,non-diabetic,one,non-smoker,southeast,3471.41,Millennials,Obese,Normal Blood Pressure
+22.0,male,30.4,95,diabetic,three,non-smoker,southeast,3481.87,Gen Z,Obese,Normal Blood Pressure
+35.0,male,23.7,88,non-diabetic,two,non-smoker,southwest,3484.33,Millennials,Healthy Weight,Normal Blood Pressure
+49.0,male,32.5,93,diabetic,one,non-smoker,southeast,3490.55,Gen X,Obese,Normal Blood Pressure
+30.0,female,39.3,92,non-diabetic,two,non-smoker,southeast,3500.61,Millennials,Obese,Normal Blood Pressure
+21.0,male,28.5,98,diabetic,two,non-smoker,northwest,3537.7,Gen Z,Overweight,Normal Blood Pressure
+58.0,female,27.7,82,non-diabetic,none,non-smoker,southwest,3554.2,Gen X,Overweight,Normal Blood Pressure
+59.0,female,34.8,85,diabetic,none,non-smoker,northwest,3556.92,Baby Boomers,Obese,Normal Blood Pressure
+48.0,female,25.2,82,non-diabetic,none,non-smoker,southeast,3558.62,Gen X,Overweight,Normal Blood Pressure
+32.0,female,23.2,89,diabetic,one,non-smoker,southeast,3561.89,Millennials,Healthy Weight,Normal Blood Pressure
+31.0,female,34.8,88,non-diabetic,one,non-smoker,southwest,3578.0,Millennials,Obese,Normal Blood Pressure
+47.0,female,33.6,84,diabetic,two,non-smoker,northwest,3579.83,Gen X,Obese,Normal Blood Pressure
+23.0,male,32.7,82,diabetic,three,non-smoker,southwest,3591.48,Gen Z,Obese,Normal Blood Pressure
+36.0,female,22.5,91,diabetic,one,non-smoker,northwest,3594.17,Millennials,Healthy Weight,Normal Blood Pressure
+48.0,male,37.1,97,non-diabetic,three,non-smoker,southwest,3597.6,Gen X,Obese,Normal Blood Pressure
+18.0,male,25.5,99,diabetic,none,non-smoker,northeast,3645.09,Gen Z,Overweight,Normal Blood Pressure
+23.0,male,31.4,88,non-diabetic,one,non-smoker,southwest,3659.35,Gen Z,Obese,Normal Blood Pressure
+20.0,male,45.9,97,non-diabetic,two,non-smoker,southwest,3693.43,Gen Z,Obese,Normal Blood Pressure
+31.0,male,30.3,92,non-diabetic,none,non-smoker,southeast,3704.35,Millennials,Obese,Normal Blood Pressure
+35.0,female,17.3,82,diabetic,none,non-smoker,northeast,3732.63,Millennials,Underweight,Normal Blood Pressure
+49.0,female,26.0,88,non-diabetic,none,non-smoker,northwest,3736.46,Gen X,Overweight,Normal Blood Pressure
+45.0,female,25.7,80,non-diabetic,none,non-smoker,southeast,3756.62,Millennials,Overweight,Normal Blood Pressure
+30.0,female,26.6,89,diabetic,none,non-smoker,southeast,3757.84,Millennials,Overweight,Normal Blood Pressure
+52.0,female,29.1,90,non-diabetic,none,non-smoker,southwest,3761.29,Gen X,Overweight,Normal Blood Pressure
+44.0,female,37.6,84,non-diabetic,one,non-smoker,southeast,3766.88,Millennials,Obese,Normal Blood Pressure
+31.0,male,23.8,83,non-diabetic,two,non-smoker,southwest,3847.67,Millennials,Healthy Weight,Normal Blood Pressure
+25.0,male,30.9,86,diabetic,none,non-smoker,northeast,3857.76,Gen Z,Obese,Normal Blood Pressure
+34.0,male,20.2,80,non-diabetic,three,non-smoker,northeast,3861.21,Millennials,Healthy Weight,Normal Blood Pressure
+33.0,male,28.9,87,non-diabetic,none,non-smoker,northwest,3866.86,Millennials,Overweight,Normal Blood Pressure
+32.0,male,39.5,88,diabetic,one,non-smoker,southeast,3875.73,Millennials,Obese,Normal Blood Pressure
+18.0,male,30.9,92,non-diabetic,two,non-smoker,northwest,3877.3,Gen Z,Obese,Normal Blood Pressure
+28.0,male,26.8,92,non-diabetic,three,non-smoker,southwest,3906.13,Gen Z,Overweight,Normal Blood Pressure
+42.0,female,34.6,80,non-diabetic,two,non-smoker,northeast,3925.76,Millennials,Obese,Normal Blood Pressure
+36.0,male,34.2,96,diabetic,none,non-smoker,southeast,3935.18,Millennials,Obese,Normal Blood Pressure
+46.0,female,31.2,88,diabetic,none,non-smoker,northeast,3943.6,Millennials,Obese,Normal Blood Pressure
+46.0,female,29.6,86,diabetic,one,non-smoker,southeast,3947.41,Millennials,Overweight,Normal Blood Pressure
+38.0,female,31.3,86,diabetic,one,non-smoker,northwest,3956.07,Millennials,Obese,Normal Blood Pressure
+53.0,female,28.9,93,non-diabetic,none,non-smoker,southeast,3972.92,Gen X,Overweight,Normal Blood Pressure
+35.0,female,29.9,93,diabetic,two,non-smoker,southeast,3981.98,Millennials,Overweight,Normal Blood Pressure
+48.0,female,34.2,99,diabetic,two,non-smoker,southwest,3987.93,Gen X,Obese,Normal Blood Pressure
+49.0,female,41.1,88,diabetic,none,non-smoker,southwest,3989.84,Gen X,Obese,Normal Blood Pressure
+46.0,female,44.2,91,diabetic,none,non-smoker,southeast,3994.18,Millennials,Obese,Normal Blood Pressure
+48.0,male,20.0,82,non-diabetic,three,non-smoker,northeast,4005.42,Gen X,Healthy Weight,Normal Blood Pressure
+44.0,male,24.1,86,non-diabetic,one,non-smoker,northwest,4032.24,Millennials,Healthy Weight,Normal Blood Pressure
+43.0,male,29.0,91,non-diabetic,one,non-smoker,northeast,4040.56,Millennials,Overweight,Normal Blood Pressure
+24.0,male,37.3,99,diabetic,two,non-smoker,southeast,4058.12,Gen Z,Obese,Normal Blood Pressure
+37.0,male,33.2,90,diabetic,two,non-smoker,northwest,4058.71,Millennials,Obese,Normal Blood Pressure
+23.0,male,30.0,95,diabetic,one,non-smoker,southeast,4074.45,Gen Z,Obese,Normal Blood Pressure
+26.0,male,31.5,95,diabetic,one,non-smoker,southwest,4076.5,Gen Z,Obese,Normal Blood Pressure
+49.0,female,25.9,80,diabetic,one,non-smoker,northwest,4133.64,Gen X,Overweight,Normal Blood Pressure
+47.0,female,21.8,98,non-diabetic,none,non-smoker,northwest,4134.08,Gen X,Healthy Weight,Normal Blood Pressure
+25.0,female,27.9,88,diabetic,none,non-smoker,southeast,4137.52,Gen Z,Overweight,Normal Blood Pressure
+59.0,female,32.4,94,non-diabetic,one,non-smoker,southwest,4149.74,Baby Boomers,Obese,Normal Blood Pressure
+48.0,female,33.3,100,diabetic,one,non-smoker,southeast,4151.03,Gen X,Obese,Normal Blood Pressure
+34.0,female,24.3,90,diabetic,none,non-smoker,southeast,4185.1,Millennials,Healthy Weight,Normal Blood Pressure
+25.0,female,26.8,98,non-diabetic,two,non-smoker,northwest,4189.11,Gen Z,Overweight,Normal Blood Pressure
+27.0,female,30.1,81,non-diabetic,three,non-smoker,southwest,4234.93,Gen Z,Obese,Normal Blood Pressure
+30.0,male,27.6,90,non-diabetic,one,non-smoker,southeast,4237.13,Millennials,Overweight,Normal Blood Pressure
+35.0,male,25.9,84,diabetic,one,non-smoker,northwest,4239.89,Millennials,Overweight,Normal Blood Pressure
+37.0,male,28.6,93,diabetic,one,non-smoker,northwest,4243.59,Millennials,Overweight,Normal Blood Pressure
+35.0,male,30.3,80,non-diabetic,three,non-smoker,southwest,4260.74,Millennials,Obese,Normal Blood Pressure
+49.0,male,44.2,80,non-diabetic,two,non-smoker,southeast,4266.17,Gen X,Obese,Normal Blood Pressure
+25.0,female,21.3,95,diabetic,three,non-smoker,northwest,4296.27,Gen Z,Healthy Weight,Normal Blood Pressure
+21.0,male,35.8,88,non-diabetic,none,non-smoker,northwest,4320.41,Gen Z,Obese,Normal Blood Pressure
+37.0,female,28.9,87,non-diabetic,one,non-smoker,southeast,4337.74,Millennials,Overweight,Normal Blood Pressure
+57.0,female,26.5,90,diabetic,two,non-smoker,southeast,4340.44,Gen X,Overweight,Normal Blood Pressure
+32.0,female,31.1,88,non-diabetic,none,non-smoker,southeast,4347.02,Millennials,Obese,Normal Blood Pressure
+25.0,female,33.0,89,diabetic,two,non-smoker,southeast,4349.46,Gen Z,Obese,Normal Blood Pressure
+40.0,female,29.3,87,diabetic,one,non-smoker,southeast,4350.51,Millennials,Overweight,Normal Blood Pressure
+30.0,female,29.7,93,non-diabetic,none,non-smoker,northwest,4357.04,Millennials,Overweight,Normal Blood Pressure
+31.0,female,24.3,90,diabetic,three,non-smoker,southwest,4391.65,Millennials,Healthy Weight,Normal Blood Pressure
+37.0,male,29.7,81,non-diabetic,none,non-smoker,southeast,4399.73,Millennials,Overweight,Normal Blood Pressure
+26.0,male,31.5,88,diabetic,none,non-smoker,southwest,4402.23,Gen Z,Obese,Normal Blood Pressure
+41.0,female,27.7,92,diabetic,none,non-smoker,southeast,4415.16,Millennials,Overweight,Normal Blood Pressure
+46.0,male,22.5,88,diabetic,two,non-smoker,southeast,4428.89,Millennials,Healthy Weight,Normal Blood Pressure
+32.0,male,31.7,83,diabetic,two,non-smoker,northwest,4433.39,Millennials,Obese,Normal Blood Pressure
+34.0,male,32.1,83,diabetic,two,non-smoker,northwest,4433.92,Millennials,Obese,Normal Blood Pressure
+44.0,male,27.0,100,diabetic,two,non-smoker,southeast,4435.09,Millennials,Overweight,Normal Blood Pressure
+46.0,male,29.3,80,diabetic,two,non-smoker,southeast,4438.26,Millennials,Overweight,Normal Blood Pressure
+41.0,male,26.9,90,non-diabetic,one,non-smoker,southeast,4441.21,Millennials,Overweight,Normal Blood Pressure
+32.0,male,33.0,94,diabetic,three,non-smoker,southeast,4449.46,Millennials,Obese,Normal Blood Pressure
+43.0,male,27.8,81,non-diabetic,one,non-smoker,northwest,4454.4,Millennials,Overweight,Normal Blood Pressure
+37.0,male,33.8,90,non-diabetic,one,non-smoker,northwest,4462.72,Millennials,Obese,Normal Blood Pressure
+21.0,male,38.4,87,diabetic,two,non-smoker,southeast,4463.21,Gen Z,Obese,Normal Blood Pressure
+45.0,female,35.0,91,diabetic,three,non-smoker,northwest,4466.62,Millennials,Obese,Normal Blood Pressure
+36.0,male,21.4,89,non-diabetic,none,non-smoker,southeast,4500.34,Millennials,Healthy Weight,Normal Blood Pressure
+44.0,male,33.7,96,non-diabetic,four,non-smoker,southeast,4504.66,Millennials,Obese,Normal Blood Pressure
+35.0,male,34.7,83,diabetic,none,non-smoker,southeast,4518.83,Millennials,Obese,Normal Blood Pressure
+51.0,female,28.4,93,non-diabetic,one,non-smoker,northwest,4527.18,Gen X,Overweight,Normal Blood Pressure
+47.0,female,24.6,90,diabetic,two,non-smoker,southwest,4529.48,Gen X,Healthy Weight,Normal Blood Pressure
+26.0,male,42.9,95,diabetic,one,non-smoker,southwest,4536.26,Gen Z,Obese,Normal Blood Pressure
+50.0,female,20.5,89,diabetic,none,non-smoker,southeast,4544.23,Gen X,Healthy Weight,Normal Blood Pressure
+43.0,female,31.4,99,non-diabetic,four,non-smoker,southeast,4561.19,Millennials,Obese,Normal Blood Pressure
+55.0,female,29.6,93,diabetic,one,non-smoker,southeast,4562.84,Gen X,Overweight,Normal Blood Pressure
+26.0,female,29.4,96,diabetic,two,non-smoker,southeast,4564.19,Gen Z,Overweight,Normal Blood Pressure
+60.0,female,26.7,94,non-diabetic,none,non-smoker,northwest,4571.41,Baby Boomers,Overweight,Normal Blood Pressure
+31.0,female,30.2,83,non-diabetic,three,non-smoker,northwest,4618.08,Millennials,Obese,Normal Blood Pressure
+18.0,male,30.8,97,diabetic,none,non-smoker,southwest,4646.76,Gen Z,Obese,Normal Blood Pressure
+47.0,male,27.3,85,diabetic,three,non-smoker,southeast,4661.29,Gen X,Overweight,Normal Blood Pressure
+26.0,male,37.3,86,diabetic,one,non-smoker,southeast,4667.61,Gen Z,Obese,Normal Blood Pressure
+22.0,male,35.2,87,diabetic,two,non-smoker,southwest,4670.64,Gen Z,Obese,Normal Blood Pressure
+32.0,male,37.2,82,non-diabetic,two,non-smoker,southeast,4673.39,Millennials,Obese,Normal Blood Pressure
+43.0,male,46.5,83,diabetic,two,non-smoker,southeast,4686.39,Millennials,Obese,Normal Blood Pressure
+46.0,female,28.6,80,non-diabetic,five,non-smoker,southwest,4687.8,Millennials,Overweight,Normal Blood Pressure
+56.0,female,21.9,100,diabetic,one,non-smoker,southeast,4718.2,Gen X,Healthy Weight,Normal Blood Pressure
+45.0,female,22.9,94,non-diabetic,one,non-smoker,southeast,4719.52,Millennials,Healthy Weight,Normal Blood Pressure
+42.0,female,23.8,80,diabetic,two,non-smoker,northwest,4719.74,Millennials,Healthy Weight,Normal Blood Pressure
+48.0,female,32.7,95,non-diabetic,one,non-smoker,northwest,4738.27,Gen X,Obese,Normal Blood Pressure
+29.0,male,27.1,82,diabetic,one,non-smoker,southwest,4746.34,Millennials,Overweight,Normal Blood Pressure
+44.0,male,27.6,86,non-diabetic,one,non-smoker,southeast,4747.05,Millennials,Overweight,Normal Blood Pressure
+19.0,male,30.5,92,diabetic,one,non-smoker,southwest,4751.07,Gen Z,Obese,Normal Blood Pressure
+50.0,female,43.1,98,non-diabetic,two,non-smoker,southeast,4753.64,Gen X,Obese,Normal Blood Pressure
+46.0,male,38.6,83,diabetic,one,non-smoker,southwest,4762.33,Millennials,Obese,Normal Blood Pressure
+33.0,female,18.5,94,diabetic,one,non-smoker,southwest,4766.02,Millennials,Underweight,Normal Blood Pressure
+56.0,female,28.3,100,diabetic,one,non-smoker,southeast,4779.6,Gen X,Overweight,Normal Blood Pressure
+38.0,female,39.8,85,diabetic,one,non-smoker,southeast,4795.66,Millennials,Obese,Normal Blood Pressure
+33.0,male,18.9,87,diabetic,three,non-smoker,southeast,4827.9,Millennials,Healthy Weight,Normal Blood Pressure
+55.0,female,37.0,83,diabetic,five,non-smoker,southwest,4830.63,Gen X,Obese,Normal Blood Pressure
+43.0,male,31.6,89,non-diabetic,three,non-smoker,southeast,4837.58,Millennials,Obese,Normal Blood Pressure
+46.0,male,32.6,82,diabetic,three,non-smoker,southeast,4846.92,Millennials,Obese,Normal Blood Pressure
+47.0,male,26.7,93,non-diabetic,four,non-smoker,northwest,4877.98,Gen X,Overweight,Normal Blood Pressure
+60.0,female,26.2,99,non-diabetic,none,non-smoker,southwest,4883.87,Baby Boomers,Overweight,Normal Blood Pressure
+31.0,female,29.9,85,non-diabetic,none,non-smoker,southeast,4889.04,Millennials,Overweight,Normal Blood Pressure
+28.0,male,35.8,97,non-diabetic,two,non-smoker,southeast,4890.0,Gen Z,Obese,Normal Blood Pressure
+39.0,male,25.3,91,non-diabetic,one,non-smoker,northwest,4894.75,Millennials,Overweight,Normal Blood Pressure
+48.0,female,20.2,97,non-diabetic,two,non-smoker,northwest,4906.41,Gen X,Healthy Weight,Normal Blood Pressure
+38.0,male,30.1,87,non-diabetic,five,non-smoker,southeast,4915.06,Millennials,Obese,Normal Blood Pressure
+40.0,female,32.1,95,diabetic,two,non-smoker,northwest,4922.92,Millennials,Obese,Normal Blood Pressure
+31.0,female,23.6,95,non-diabetic,two,non-smoker,southwest,4931.65,Millennials,Healthy Weight,Normal Blood Pressure
+25.0,female,25.8,97,diabetic,two,non-smoker,southwest,4934.71,Gen Z,Overweight,Normal Blood Pressure
+46.0,female,36.6,84,diabetic,two,non-smoker,southeast,4949.76,Millennials,Obese,Normal Blood Pressure
+29.0,female,23.6,87,diabetic,none,non-smoker,southeast,4992.38,Millennials,Healthy Weight,Normal Blood Pressure
+27.0,female,26.7,99,non-diabetic,one,non-smoker,southeast,5002.78,Gen Z,Overweight,Normal Blood Pressure
+40.0,female,27.5,98,diabetic,one,non-smoker,southwest,5003.85,Millennials,Overweight,Normal Blood Pressure
+25.0,female,33.7,95,non-diabetic,one,non-smoker,southwest,5012.47,Gen Z,Obese,Normal Blood Pressure
+35.0,male,29.6,94,diabetic,none,non-smoker,northwest,5028.15,Millennials,Overweight,Normal Blood Pressure
+35.0,male,27.6,100,non-diabetic,two,non-smoker,southeast,5031.27,Millennials,Overweight,Normal Blood Pressure
+24.0,male,23.9,84,non-diabetic,five,non-smoker,southwest,5080.1,Gen Z,Healthy Weight,Normal Blood Pressure
+19.0,male,17.9,90,non-diabetic,one,non-smoker,northwest,5116.5,Gen Z,Underweight,Normal Blood Pressure
+39.0,male,42.1,100,non-diabetic,two,non-smoker,southeast,5124.19,Millennials,Obese,Normal Blood Pressure
+31.0,male,24.1,88,diabetic,one,non-smoker,northwest,5125.22,Millennials,Healthy Weight,Normal Blood Pressure
+55.0,female,38.8,86,non-diabetic,three,non-smoker,southeast,5138.26,Gen X,Obese,Normal Blood Pressure
+33.0,female,31.5,86,non-diabetic,one,non-smoker,southeast,5148.55,Millennials,Obese,Normal Blood Pressure
+34.0,female,29.8,100,diabetic,two,non-smoker,southwest,5152.13,Millennials,Overweight,Normal Blood Pressure
+32.0,male,22.5,93,non-diabetic,three,non-smoker,southeast,5209.58,Millennials,Healthy Weight,Normal Blood Pressure
+38.0,female,26.1,81,diabetic,none,non-smoker,southeast,5227.99,Millennials,Overweight,Normal Blood Pressure
+46.0,female,31.0,84,non-diabetic,one,non-smoker,southwest,5240.77,Millennials,Obese,Normal Blood Pressure
+57.0,female,34.2,93,diabetic,one,non-smoker,southeast,5245.23,Gen X,Obese,Normal Blood Pressure
+57.0,female,34.8,96,non-diabetic,one,non-smoker,southwest,5246.05,Gen X,Obese,Normal Blood Pressure
+23.0,male,30.8,89,diabetic,three,non-smoker,southwest,5253.52,Gen Z,Obese,Normal Blood Pressure
+20.0,male,24.6,92,non-diabetic,two,non-smoker,northwest,5257.51,Gen Z,Healthy Weight,Normal Blood Pressure
+19.0,male,27.5,83,non-diabetic,two,non-smoker,northwest,5261.47,Gen Z,Overweight,Normal Blood Pressure
+44.0,female,25.8,90,non-diabetic,none,non-smoker,northwest,5266.37,Millennials,Overweight,Normal Blood Pressure
+52.0,female,26.9,96,non-diabetic,none,non-smoker,northwest,5267.82,Gen X,Overweight,Normal Blood Pressure
+32.0,female,30.0,88,diabetic,none,non-smoker,northwest,5272.18,Millennials,Obese,Normal Blood Pressure
+41.0,female,26.3,82,diabetic,three,non-smoker,northwest,5312.17,Millennials,Overweight,Normal Blood Pressure
+49.0,female,30.9,90,diabetic,three,non-smoker,southwest,5325.65,Gen X,Obese,Normal Blood Pressure
+25.0,female,32.8,81,non-diabetic,two,non-smoker,northwest,5327.4,Gen Z,Obese,Normal Blood Pressure
+31.0,female,22.1,97,diabetic,one,non-smoker,southeast,5354.07,Millennials,Healthy Weight,Normal Blood Pressure
+32.0,male,30.9,91,non-diabetic,one,non-smoker,northwest,5373.36,Millennials,Obese,Normal Blood Pressure
+54.0,female,32.9,91,diabetic,two,non-smoker,southwest,5375.04,Gen X,Obese,Normal Blood Pressure
+44.0,male,33.8,96,non-diabetic,one,non-smoker,northwest,5377.46,Millennials,Obese,Normal Blood Pressure
+40.0,female,27.6,92,diabetic,none,non-smoker,southwest,5383.54,Millennials,Overweight,Normal Blood Pressure
+58.0,female,26.4,88,diabetic,one,non-smoker,northwest,5385.34,Gen X,Overweight,Normal Blood Pressure
+32.0,female,37.7,96,non-diabetic,none,non-smoker,southeast,5397.62,Millennials,Obese,Normal Blood Pressure
+29.0,female,40.2,85,diabetic,none,non-smoker,southeast,5400.98,Millennials,Obese,Normal Blood Pressure
+30.0,male,25.1,100,diabetic,none,non-smoker,southeast,5415.66,Millennials,Overweight,Normal Blood Pressure
+41.0,male,31.1,86,diabetic,three,non-smoker,northwest,5425.02,Millennials,Obese,Normal Blood Pressure
+27.0,male,37.4,83,non-diabetic,three,non-smoker,southeast,5428.73,Gen Z,Obese,Normal Blood Pressure
+29.0,male,41.7,86,diabetic,none,non-smoker,southeast,5438.75,Millennials,Obese,Normal Blood Pressure
+27.0,female,19.9,81,non-diabetic,none,non-smoker,southeast,5458.05,Gen Z,Healthy Weight,Normal Blood Pressure
+57.0,female,27.7,97,diabetic,none,non-smoker,southeast,5469.01,Gen X,Overweight,Normal Blood Pressure
+43.0,female,25.9,99,non-diabetic,one,non-smoker,southwest,5472.45,Millennials,Overweight,Normal Blood Pressure
+55.0,female,29.9,89,non-diabetic,one,non-smoker,southeast,5478.04,Gen X,Overweight,Normal Blood Pressure
+47.0,male,28.3,91,diabetic,one,non-smoker,southeast,5484.47,Gen X,Overweight,Normal Blood Pressure
+23.0,male,31.0,90,non-diabetic,one,non-smoker,southwest,5488.26,Gen Z,Obese,Normal Blood Pressure
+20.0,male,34.4,93,non-diabetic,two,non-smoker,southeast,5584.31,Gen Z,Obese,Normal Blood Pressure
+43.0,female,33.3,94,diabetic,one,non-smoker,southeast,5594.85,Millennials,Obese,Normal Blood Pressure
+31.0,male,24.3,83,diabetic,five,non-smoker,southwest,5615.37,Millennials,Healthy Weight,Normal Blood Pressure
+57.0,female,35.8,85,diabetic,one,non-smoker,northwest,5630.46,Gen X,Obese,Normal Blood Pressure
+54.0,female,32.8,86,diabetic,none,non-smoker,southwest,5649.72,Gen X,Obese,Normal Blood Pressure
+25.0,female,41.8,95,diabetic,none,non-smoker,southeast,5662.23,Gen Z,Obese,Normal Blood Pressure
+26.0,female,20.0,94,diabetic,three,non-smoker,northwest,5693.43,Gen Z,Healthy Weight,Normal Blood Pressure
+38.0,male,33.6,100,diabetic,none,non-smoker,southeast,5699.84,Millennials,Obese,Normal Blood Pressure
+43.0,female,25.6,82,non-diabetic,four,non-smoker,southwest,5708.87,Millennials,Overweight,Normal Blood Pressure
+20.0,male,40.3,81,diabetic,none,non-smoker,southeast,5709.16,Gen Z,Obese,Normal Blood Pressure
+22.0,male,34.8,89,non-diabetic,two,non-smoker,northwest,5729.01,Gen Z,Obese,Normal Blood Pressure
+23.0,male,42.7,82,non-diabetic,none,non-smoker,southeast,5757.41,Gen Z,Obese,Normal Blood Pressure
+41.0,female,35.9,82,non-diabetic,two,non-smoker,southeast,5836.52,Millennials,Obese,Normal Blood Pressure
+28.0,female,43.3,90,non-diabetic,two,non-smoker,southeast,5846.92,Gen Z,Obese,Normal Blood Pressure
+37.0,male,20.0,91,non-diabetic,one,non-smoker,northwest,5855.9,Millennials,Healthy Weight,Normal Blood Pressure
+58.0,female,29.6,95,diabetic,none,non-smoker,southwest,5910.94,Gen X,Overweight,Normal Blood Pressure
+51.0,female,36.2,90,diabetic,none,non-smoker,southeast,5920.1,Gen X,Obese,Normal Blood Pressure
+27.0,male,28.9,94,diabetic,three,non-smoker,southwest,5926.85,Gen Z,Overweight,Normal Blood Pressure
+46.0,male,34.3,89,diabetic,three,non-smoker,southeast,5934.38,Millennials,Obese,Normal Blood Pressure
+25.0,male,24.9,94,non-diabetic,none,non-smoker,southeast,5966.89,Gen Z,Healthy Weight,Normal Blood Pressure
+46.0,male,26.9,90,non-diabetic,none,non-smoker,southwest,5969.72,Millennials,Overweight,Normal Blood Pressure
+40.0,female,38.9,100,diabetic,three,non-smoker,southwest,5972.38,Millennials,Obese,Normal Blood Pressure
+35.0,female,28.9,97,diabetic,one,non-smoker,southeast,5974.38,Millennials,Overweight,Normal Blood Pressure
+34.0,female,30.7,90,non-diabetic,one,non-smoker,southeast,5976.83,Millennials,Obese,Normal Blood Pressure
+38.0,male,34.1,90,non-diabetic,none,non-smoker,southwest,5979.73,Millennials,Obese,Normal Blood Pressure
+33.0,female,37.3,95,diabetic,two,non-smoker,northwest,5989.52,Millennials,Obese,Normal Blood Pressure
+38.0,male,29.4,96,non-diabetic,four,non-smoker,southwest,6059.17,Millennials,Overweight,Normal Blood Pressure
+26.0,male,28.0,100,non-diabetic,one,non-smoker,southeast,6067.13,Gen Z,Overweight,Normal Blood Pressure
+36.0,male,37.1,88,non-diabetic,one,non-smoker,southeast,6079.67,Millennials,Obese,Normal Blood Pressure
+42.0,male,34.7,97,diabetic,two,non-smoker,southwest,6082.41,Millennials,Obese,Normal Blood Pressure
+38.0,female,34.1,93,non-diabetic,one,non-smoker,northwest,6112.35,Millennials,Obese,Normal Blood Pressure
+28.0,female,30.5,82,diabetic,three,non-smoker,southeast,6113.23,Gen Z,Obese,Normal Blood Pressure
+29.0,male,21.9,91,diabetic,one,non-smoker,northwest,6117.49,Millennials,Healthy Weight,Normal Blood Pressure
+46.0,male,26.2,84,diabetic,one,non-smoker,northwest,6123.57,Millennials,Overweight,Normal Blood Pressure
+55.0,female,33.2,89,diabetic,three,non-smoker,northwest,6128.8,Gen X,Obese,Normal Blood Pressure
+42.0,female,29.3,84,non-diabetic,three,non-smoker,southeast,6184.3,Millennials,Overweight,Normal Blood Pressure
+39.0,female,31.0,97,non-diabetic,none,non-smoker,southeast,6185.32,Millennials,Obese,Normal Blood Pressure
+32.0,female,31.6,91,diabetic,none,non-smoker,southwest,6186.13,Millennials,Obese,Normal Blood Pressure
+32.0,female,38.0,92,non-diabetic,three,non-smoker,southwest,6196.45,Millennials,Obese,Normal Blood Pressure
+27.0,male,24.3,82,non-diabetic,two,non-smoker,northwest,6198.75,Gen Z,Healthy Weight,Normal Blood Pressure
+33.0,male,28.0,93,non-diabetic,two,non-smoker,northwest,6203.9,Millennials,Overweight,Normal Blood Pressure
+25.0,female,32.5,100,non-diabetic,one,non-smoker,southwest,6238.3,Gen Z,Obese,Normal Blood Pressure
+45.0,male,23.2,92,non-diabetic,none,non-smoker,southwest,6250.44,Millennials,Healthy Weight,Normal Blood Pressure
+24.0,male,21.8,83,diabetic,one,non-smoker,southeast,6272.48,Gen Z,Healthy Weight,Normal Blood Pressure
+43.0,male,28.8,93,non-diabetic,one,non-smoker,southwest,6282.24,Millennials,Overweight,Normal Blood Pressure
+20.0,male,34.2,89,diabetic,one,non-smoker,southeast,6289.75,Gen Z,Obese,Normal Blood Pressure
+48.0,female,29.5,95,non-diabetic,two,non-smoker,southwest,6311.95,Gen X,Overweight,Normal Blood Pressure
+56.0,female,30.8,92,diabetic,two,non-smoker,southeast,6313.76,Gen X,Obese,Normal Blood Pressure
+58.0,female,37.1,97,non-diabetic,three,non-smoker,southeast,6334.34,Gen X,Obese,Normal Blood Pressure
+24.0,male,32.3,92,diabetic,two,non-smoker,southeast,6338.08,Gen Z,Obese,Normal Blood Pressure
+40.0,male,45.4,91,non-diabetic,two,non-smoker,southeast,6356.27,Millennials,Obese,Normal Blood Pressure
+28.0,male,31.3,91,non-diabetic,none,non-smoker,northwest,6358.78,Gen Z,Obese,Normal Blood Pressure
+50.0,female,42.9,98,non-diabetic,three,non-smoker,northwest,6360.99,Gen X,Obese,Normal Blood Pressure
+34.0,female,40.6,98,non-diabetic,one,non-smoker,northwest,6373.56,Millennials,Obese,Normal Blood Pressure
+21.0,male,26.3,85,diabetic,one,non-smoker,northwest,6389.38,Gen Z,Overweight,Normal Blood Pressure
+31.0,male,29.4,99,non-diabetic,one,non-smoker,northwest,6393.6,Millennials,Overweight,Normal Blood Pressure
+42.0,female,23.5,94,non-diabetic,two,non-smoker,southeast,6402.29,Millennials,Healthy Weight,Normal Blood Pressure
+18.0,male,29.8,97,non-diabetic,two,non-smoker,southeast,6406.41,Gen Z,Overweight,Normal Blood Pressure
+51.0,female,27.7,81,non-diabetic,three,non-smoker,southwest,6414.18,Gen X,Overweight,Normal Blood Pressure
+20.0,male,46.5,89,non-diabetic,three,non-smoker,southeast,6435.62,Gen Z,Obese,Normal Blood Pressure
+28.0,male,27.8,93,diabetic,two,non-smoker,northwest,6455.86,Gen Z,Overweight,Normal Blood Pressure
+24.0,male,29.3,93,non-diabetic,two,non-smoker,northwest,6457.84,Gen Z,Overweight,Normal Blood Pressure
+59.0,female,37.9,91,non-diabetic,none,non-smoker,southwest,6474.01,Baby Boomers,Obese,Normal Blood Pressure
+38.0,female,27.4,81,non-diabetic,one,non-smoker,southwest,6496.89,Millennials,Overweight,Normal Blood Pressure
+53.0,female,29.8,99,non-diabetic,one,non-smoker,southeast,6500.24,Gen X,Overweight,Normal Blood Pressure
+42.0,male,28.6,85,diabetic,three,non-smoker,northwest,6548.2,Millennials,Overweight,Normal Blood Pressure
+29.0,female,36.3,83,non-diabetic,three,non-smoker,southeast,6551.75,Millennials,Obese,Normal Blood Pressure
+31.0,female,27.3,86,diabetic,one,non-smoker,southeast,6555.07,Millennials,Overweight,Normal Blood Pressure
+48.0,female,33.0,99,non-diabetic,none,non-smoker,northwest,6571.02,Gen X,Obese,Normal Blood Pressure
+55.0,female,34.8,80,diabetic,two,non-smoker,southwest,6571.54,Gen X,Obese,Normal Blood Pressure
+46.0,male,25.0,91,non-diabetic,two,non-smoker,southeast,6593.51,Millennials,Overweight,Normal Blood Pressure
+45.0,male,34.1,96,non-diabetic,one,non-smoker,southeast,6600.21,Millennials,Obese,Normal Blood Pressure
+31.0,male,29.9,99,diabetic,two,non-smoker,southwest,6600.36,Millennials,Overweight,Normal Blood Pressure
+38.0,male,41.2,81,diabetic,one,non-smoker,southeast,6610.11,Millennials,Obese,Normal Blood Pressure
+35.0,male,16.8,98,non-diabetic,two,non-smoker,southeast,6640.54,Millennials,Underweight,Normal Blood Pressure
+48.0,male,21.1,82,non-diabetic,three,non-smoker,southeast,6652.53,Gen X,Healthy Weight,Normal Blood Pressure
+20.0,male,33.4,89,diabetic,five,non-smoker,southeast,6653.79,Gen Z,Obese,Normal Blood Pressure
+29.0,male,28.4,87,non-diabetic,one,non-smoker,northwest,6664.69,Millennials,Overweight,Normal Blood Pressure
+48.0,male,42.4,92,diabetic,five,non-smoker,southwest,6666.24,Gen X,Obese,Normal Blood Pressure
+55.0,female,23.4,85,diabetic,two,non-smoker,northwest,6686.43,Gen X,Healthy Weight,Normal Blood Pressure
+37.0,male,24.5,86,non-diabetic,two,non-smoker,northwest,6710.19,Millennials,Healthy Weight,Normal Blood Pressure
+48.0,male,27.6,90,diabetic,three,non-smoker,southeast,6746.74,Gen X,Overweight,Normal Blood Pressure
+37.0,male,28.9,91,non-diabetic,three,non-smoker,southeast,6748.59,Millennials,Overweight,Normal Blood Pressure
+54.0,female,19.0,84,diabetic,three,non-smoker,southeast,6753.04,Gen X,Healthy Weight,Normal Blood Pressure
+48.0,female,28.1,95,diabetic,one,non-smoker,southeast,6770.19,Gen X,Overweight,Normal Blood Pressure
+54.0,female,32.2,89,non-diabetic,one,non-smoker,southwest,6775.96,Gen X,Obese,Normal Blood Pressure
+40.0,female,36.1,80,non-diabetic,one,non-smoker,southeast,6781.35,Millennials,Obese,Normal Blood Pressure
+27.0,male,30.9,91,non-diabetic,three,non-smoker,northwest,6796.86,Gen Z,Obese,Normal Blood Pressure
+37.0,male,28.5,81,non-diabetic,five,non-smoker,southeast,6799.46,Millennials,Overweight,Normal Blood Pressure
+32.0,male,26.0,90,non-diabetic,none,non-smoker,southeast,6837.37,Millennials,Overweight,Normal Blood Pressure
+46.0,male,30.1,85,diabetic,one,non-smoker,southwest,6849.03,Millennials,Obese,Normal Blood Pressure
+29.0,male,23.9,84,diabetic,one,non-smoker,southeast,6858.48,Millennials,Healthy Weight,Normal Blood Pressure
+45.0,male,32.2,100,diabetic,two,non-smoker,southwest,6875.96,Millennials,Obese,Normal Blood Pressure
+31.0,female,17.3,100,non-diabetic,two,non-smoker,southeast,6877.98,Millennials,Underweight,Normal Blood Pressure
+60.0,female,19.5,95,non-diabetic,two,non-smoker,northwest,6933.24,Baby Boomers,Healthy Weight,Normal Blood Pressure
+39.0,male,26.3,97,non-diabetic,one,non-smoker,northwest,6940.91,Millennials,Overweight,Normal Blood Pressure
+40.0,male,39.5,88,non-diabetic,none,non-smoker,northwest,6948.7,Millennials,Obese,Normal Blood Pressure
+19.0,male,22.7,82,non-diabetic,three,non-smoker,southeast,6985.51,Gen Z,Healthy Weight,Normal Blood Pressure
+40.0,male,32.3,87,diabetic,two,non-smoker,northwest,6986.7,Millennials,Obese,Normal Blood Pressure
+55.0,female,25.3,91,diabetic,one,non-smoker,southwest,7045.5,Gen X,Overweight,Normal Blood Pressure
+34.0,female,26.2,88,diabetic,one,non-smoker,southeast,7046.72,Millennials,Overweight,Normal Blood Pressure
+56.0,female,32.9,84,diabetic,none,non-smoker,southeast,7050.02,Gen X,Obese,Normal Blood Pressure
+26.0,female,29.0,93,non-diabetic,one,non-smoker,southwest,7050.64,Gen Z,Overweight,Normal Blood Pressure
+33.0,female,25.5,87,non-diabetic,one,non-smoker,southeast,7077.19,Millennials,Overweight,Normal Blood Pressure
+50.0,female,20.0,89,diabetic,two,non-smoker,southeast,7133.9,Gen X,Healthy Weight,Normal Blood Pressure
+55.0,female,27.8,80,diabetic,two,non-smoker,southeast,7144.86,Gen X,Overweight,Normal Blood Pressure
+19.0,male,22.3,81,non-diabetic,none,non-smoker,southwest,7147.11,Gen Z,Healthy Weight,Normal Blood Pressure
+46.0,male,34.3,89,non-diabetic,one,non-smoker,southeast,7147.47,Millennials,Obese,Normal Blood Pressure
+49.0,female,28.0,92,non-diabetic,three,non-smoker,southwest,7151.09,Gen X,Overweight,Normal Blood Pressure
+40.0,male,38.1,91,non-diabetic,one,non-smoker,southeast,7152.67,Millennials,Obese,Normal Blood Pressure
+27.0,female,28.3,88,non-diabetic,one,non-smoker,northwest,7153.55,Gen Z,Overweight,Normal Blood Pressure
+48.0,male,35.8,82,diabetic,two,non-smoker,southwest,7160.09,Gen X,Obese,Normal Blood Pressure
+18.0,male,36.0,93,non-diabetic,two,non-smoker,southeast,7160.33,Gen Z,Obese,Normal Blood Pressure
+19.0,male,37.2,96,diabetic,two,non-smoker,southeast,7162.01,Gen Z,Obese,Normal Blood Pressure
+24.0,male,22.7,88,diabetic,two,non-smoker,southeast,7173.36,Gen Z,Healthy Weight,Normal Blood Pressure
+21.0,male,35.3,96,non-diabetic,three,non-smoker,southwest,7196.87,Gen Z,Obese,Normal Blood Pressure
+54.0,female,26.3,89,non-diabetic,two,non-smoker,northwest,7201.7,Gen X,Overweight,Normal Blood Pressure
+34.0,female,31.9,94,non-diabetic,two,non-smoker,northwest,7209.49,Millennials,Obese,Normal Blood Pressure
+43.0,male,21.4,88,non-diabetic,none,non-smoker,northwest,7222.79,Millennials,Healthy Weight,Normal Blood Pressure
+29.0,female,22.1,83,diabetic,three,non-smoker,southeast,7228.22,Millennials,Healthy Weight,Normal Blood Pressure
+55.0,female,29.0,84,diabetic,four,non-smoker,southeast,7243.81,Gen X,Overweight,Normal Blood Pressure
+20.0,male,30.6,90,non-diabetic,two,non-smoker,northwest,7256.72,Gen Z,Obese,Normal Blood Pressure
+39.0,male,34.2,81,diabetic,two,non-smoker,northwest,7261.74,Millennials,Obese,Normal Blood Pressure
+48.0,male,37.1,81,diabetic,two,non-smoker,northwest,7265.7,Gen X,Obese,Normal Blood Pressure
+46.0,female,27.7,83,non-diabetic,three,non-smoker,northwest,7281.51,Millennials,Overweight,Normal Blood Pressure
+37.0,female,29.2,92,non-diabetic,none,non-smoker,southeast,7323.73,Millennials,Overweight,Normal Blood Pressure
+25.0,female,25.1,94,diabetic,none,non-smoker,southeast,7325.05,Gen Z,Overweight,Normal Blood Pressure
+56.0,female,29.9,81,diabetic,one,non-smoker,southwest,7337.75,Gen X,Overweight,Normal Blood Pressure
+32.0,female,33.1,94,diabetic,none,non-smoker,southwest,7345.08,Millennials,Obese,Normal Blood Pressure
+60.0,female,35.6,80,non-diabetic,one,non-smoker,southeast,7345.73,Baby Boomers,Obese,Normal Blood Pressure
+37.0,female,35.3,100,non-diabetic,none,non-smoker,southwest,7348.14,Millennials,Obese,Normal Blood Pressure
+55.0,female,31.6,91,non-diabetic,one,non-smoker,southeast,7358.18,Gen X,Obese,Normal Blood Pressure
+26.0,female,37.1,88,non-diabetic,two,non-smoker,southwest,7371.77,Gen Z,Obese,Normal Blood Pressure
+49.0,female,34.1,82,non-diabetic,three,non-smoker,southwest,7418.52,Gen X,Obese,Normal Blood Pressure
+51.0,female,26.4,97,non-diabetic,none,non-smoker,northwest,7419.48,Gen X,Overweight,Normal Blood Pressure
+55.0,female,27.6,89,non-diabetic,none,non-smoker,northwest,7421.19,Gen X,Overweight,Normal Blood Pressure
+46.0,male,30.2,80,non-diabetic,one,non-smoker,southwest,7441.05,Millennials,Obese,Normal Blood Pressure
+19.0,male,32.6,94,diabetic,two,non-smoker,southwest,7441.5,Gen Z,Obese,Normal Blood Pressure
+31.0,female,36.2,96,non-diabetic,one,non-smoker,northwest,7443.64,Millennials,Obese,Normal Blood Pressure
+26.0,male,33.7,92,non-diabetic,one,non-smoker,southwest,7445.92,Gen Z,Obese,Normal Blood Pressure
+28.0,male,39.8,88,non-diabetic,none,non-smoker,southeast,7448.4,Gen Z,Obese,Normal Blood Pressure
+31.0,male,29.6,85,non-diabetic,four,non-smoker,southwest,7512.27,Millennials,Overweight,Normal Blood Pressure
+46.0,male,25.4,98,non-diabetic,one,non-smoker,northwest,7518.03,Millennials,Overweight,Normal Blood Pressure
+33.0,male,19.9,95,non-diabetic,none,non-smoker,northwest,7526.71,Millennials,Healthy Weight,Normal Blood Pressure
+31.0,female,30.2,95,non-diabetic,three,non-smoker,northwest,7537.16,Millennials,Obese,Normal Blood Pressure
+28.0,female,25.0,97,non-diabetic,one,non-smoker,southwest,7623.52,Gen Z,Overweight,Normal Blood Pressure
+37.0,female,25.8,87,non-diabetic,one,non-smoker,southwest,7624.63,Millennials,Overweight,Normal Blood Pressure
+34.0,female,27.5,96,diabetic,one,non-smoker,southwest,7626.99,Millennials,Overweight,Normal Blood Pressure
+56.0,female,32.3,99,diabetic,one,non-smoker,southeast,7633.72,Gen X,Obese,Normal Blood Pressure
+34.0,female,33.2,83,non-diabetic,one,non-smoker,southeast,7639.42,Millennials,Obese,Normal Blood Pressure
+55.0,female,29.5,81,non-diabetic,two,non-smoker,southeast,7640.31,Gen X,Overweight,Normal Blood Pressure
+52.0,female,41.3,95,non-diabetic,one,non-smoker,southeast,7650.77,Gen X,Obese,Normal Blood Pressure
+45.0,female,33.0,87,non-diabetic,three,non-smoker,southeast,7682.67,Millennials,Obese,Normal Blood Pressure
+46.0,male,27.4,88,non-diabetic,two,non-smoker,southwest,7726.85,Millennials,Overweight,Normal Blood Pressure
+54.0,female,34.6,83,non-diabetic,one,non-smoker,northwest,7727.25,Gen X,Obese,Normal Blood Pressure
+50.0,male,26.1,96,diabetic,two,non-smoker,southeast,7729.65,Gen X,Overweight,Normal Blood Pressure
+48.0,male,30.7,84,non-diabetic,two,non-smoker,southeast,7731.43,Gen X,Obese,Normal Blood Pressure
+26.0,female,35.8,100,diabetic,none,non-smoker,northwest,7731.86,Gen Z,Obese,Normal Blood Pressure
+36.0,male,37.1,90,non-diabetic,two,non-smoker,southwest,7740.34,Millennials,Obese,Normal Blood Pressure
+18.0,male,26.6,95,non-diabetic,one,non-smoker,southeast,7742.11,Gen Z,Overweight,Normal Blood Pressure
+56.0,female,33.1,91,non-diabetic,two,non-smoker,northwest,7749.16,Gen X,Obese,Normal Blood Pressure
+29.0,male,29.7,100,diabetic,none,non-smoker,southeast,7789.64,Millennials,Overweight,Normal Blood Pressure
+50.0,male,40.2,91,diabetic,none,non-smoker,southeast,7804.16,Gen X,Obese,Normal Blood Pressure
+58.0,female,38.3,87,diabetic,none,non-smoker,northeast,7935.29,Gen X,Obese,Normal Blood Pressure
+49.0,female,32.6,97,non-diabetic,three,non-smoker,southwest,7954.52,Gen X,Obese,Normal Blood Pressure
+51.0,female,22.8,86,diabetic,three,non-smoker,northeast,7985.82,Gen X,Healthy Weight,Normal Blood Pressure
+60.0,female,23.3,87,diabetic,three,non-smoker,northeast,7986.48,Baby Boomers,Healthy Weight,Normal Blood Pressure
+54.0,female,25.0,81,diabetic,two,non-smoker,northwest,8017.06,Gen X,Overweight,Normal Blood Pressure
+42.0,female,37.0,80,non-diabetic,one,non-smoker,northwest,8023.14,Millennials,Obese,Normal Blood Pressure
+53.0,female,27.7,88,diabetic,none,non-smoker,northwest,8026.67,Gen X,Overweight,Normal Blood Pressure
+42.0,male,28.7,88,non-diabetic,two,non-smoker,southwest,8027.97,Millennials,Overweight,Normal Blood Pressure
+44.0,female,28.7,88,non-diabetic,three,non-smoker,northwest,8059.68,Millennials,Overweight,Normal Blood Pressure
+25.0,male,32.3,98,non-diabetic,one,non-smoker,southwest,8062.76,Gen Z,Obese,Normal Blood Pressure
+22.0,male,36.2,100,diabetic,one,non-smoker,southwest,8068.19,Gen Z,Obese,Normal Blood Pressure
+25.0,male,47.5,84,diabetic,one,non-smoker,southeast,8083.92,Gen Z,Obese,Normal Blood Pressure
+18.0,male,32.0,81,diabetic,two,non-smoker,northwest,8116.27,Gen Z,Obese,Normal Blood Pressure
+40.0,male,30.3,83,diabetic,none,non-smoker,southwest,8116.68,Millennials,Obese,Normal Blood Pressure
+27.0,male,35.9,90,non-diabetic,none,non-smoker,southeast,8124.41,Gen Z,Obese,Normal Blood Pressure
+44.0,male,36.9,94,non-diabetic,none,non-smoker,southeast,8125.78,Millennials,Obese,Normal Blood Pressure
+29.0,male,30.9,89,diabetic,four,non-smoker,northwest,8162.72,Millennials,Obese,Normal Blood Pressure
+29.0,female,24.0,92,non-diabetic,two,non-smoker,southeast,8211.1,Millennials,Healthy Weight,Normal Blood Pressure
+26.0,female,29.8,84,non-diabetic,two,non-smoker,southeast,8219.2,Gen Z,Overweight,Normal Blood Pressure
+54.0,female,27.7,100,non-diabetic,one,non-smoker,southeast,8232.64,Gen X,Overweight,Normal Blood Pressure
+33.0,female,28.1,92,non-diabetic,one,non-smoker,southeast,8233.1,Millennials,Overweight,Normal Blood Pressure
+37.0,female,33.4,100,non-diabetic,one,non-smoker,southeast,8240.59,Millennials,Obese,Normal Blood Pressure
+38.0,female,23.4,96,diabetic,three,non-smoker,northeast,8252.28,Millennials,Healthy Weight,Normal Blood Pressure
+31.0,female,22.8,82,diabetic,none,non-smoker,southwest,8269.04,Millennials,Healthy Weight,Normal Blood Pressure
+41.0,female,28.9,80,diabetic,none,non-smoker,southwest,8277.52,Millennials,Overweight,Normal Blood Pressure
+41.0,female,31.1,93,non-diabetic,none,non-smoker,southeast,8280.62,Millennials,Obese,Normal Blood Pressure
+33.0,female,33.3,93,diabetic,none,non-smoker,southeast,8283.68,Millennials,Obese,Normal Blood Pressure
+27.0,male,22.1,81,non-diabetic,two,non-smoker,northeast,8302.54,Gen Z,Healthy Weight,Normal Blood Pressure
+38.0,female,30.7,92,diabetic,two,non-smoker,northwest,8310.84,Millennials,Obese,Normal Blood Pressure
+20.0,male,33.3,93,diabetic,one,non-smoker,northeast,8334.46,Gen Z,Obese,Normal Blood Pressure
+40.0,male,33.4,94,non-diabetic,one,non-smoker,northeast,8334.59,Millennials,Obese,Normal Blood Pressure
+34.0,male,39.4,94,diabetic,one,non-smoker,northeast,8342.91,Millennials,Obese,Normal Blood Pressure
+48.0,male,38.2,81,diabetic,two,non-smoker,southeast,8347.16,Gen X,Obese,Normal Blood Pressure
+44.0,male,30.1,86,non-diabetic,three,non-smoker,northwest,8410.05,Millennials,Obese,Normal Blood Pressure
+30.0,male,30.5,87,diabetic,two,non-smoker,northwest,8413.46,Millennials,Obese,Normal Blood Pressure
+39.0,male,19.6,91,diabetic,one,non-smoker,northwest,8428.07,Millennials,Healthy Weight,Normal Blood Pressure
+34.0,male,25.3,100,non-diabetic,none,non-smoker,southeast,8442.67,Millennials,Overweight,Normal Blood Pressure
+45.0,male,26.6,99,non-diabetic,none,non-smoker,southwest,8444.47,Millennials,Overweight,Normal Blood Pressure
+46.0,male,36.2,85,non-diabetic,none,non-smoker,southwest,8457.82,Millennials,Obese,Normal Blood Pressure
+50.0,female,27.8,80,non-diabetic,two,non-smoker,southeast,8515.76,Gen X,Overweight,Normal Blood Pressure
+59.0,female,28.6,80,diabetic,two,non-smoker,southeast,8516.83,Baby Boomers,Overweight,Normal Blood Pressure
+44.0,female,30.9,80,diabetic,two,non-smoker,southwest,8520.03,Millennials,Obese,Normal Blood Pressure
+27.0,female,34.4,85,non-diabetic,three,non-smoker,southwest,8522.0,Gen Z,Obese,Normal Blood Pressure
+29.0,female,36.3,91,diabetic,two,non-smoker,southeast,8527.53,Millennials,Obese,Normal Blood Pressure
+28.0,female,24.3,93,diabetic,none,non-smoker,northeast,8534.67,Gen Z,Healthy Weight,Normal Blood Pressure
+36.0,female,33.2,98,non-diabetic,three,non-smoker,northeast,8538.29,Millennials,Obese,Normal Blood Pressure
+26.0,female,23.6,92,diabetic,one,non-smoker,southwest,8539.67,Gen Z,Healthy Weight,Normal Blood Pressure
+54.0,female,29.4,96,diabetic,one,non-smoker,southeast,8547.69,Gen X,Overweight,Normal Blood Pressure
+36.0,female,32.0,81,non-diabetic,one,non-smoker,southwest,8551.35,Millennials,Obese,Normal Blood Pressure
+60.0,female,36.0,90,non-diabetic,one,non-smoker,southwest,8556.91,Baby Boomers,Obese,Normal Blood Pressure
+36.0,female,45.3,96,diabetic,one,non-smoker,southeast,8569.86,Millennials,Obese,Normal Blood Pressure
+46.0,female,23.9,96,non-diabetic,five,non-smoker,southeast,8582.3,Millennials,Healthy Weight,Normal Blood Pressure
+43.0,female,34.3,96,non-diabetic,five,non-smoker,southeast,8596.83,Millennials,Obese,Normal Blood Pressure
+39.0,female,27.2,95,diabetic,none,non-smoker,southeast,8601.33,Millennials,Overweight,Normal Blood Pressure
+36.0,male,23.6,86,non-diabetic,two,non-smoker,northeast,8603.82,Millennials,Healthy Weight,Normal Blood Pressure
+28.0,male,24.0,94,diabetic,two,non-smoker,northeast,8604.48,Gen Z,Healthy Weight,Normal Blood Pressure
+42.0,male,20.4,97,non-diabetic,three,non-smoker,southeast,8605.36,Millennials,Healthy Weight,Normal Blood Pressure
+26.0,male,27.4,92,non-diabetic,three,non-smoker,northeast,8606.22,Gen Z,Overweight,Normal Blood Pressure
+23.0,male,27.5,97,non-diabetic,three,non-smoker,southwest,8615.3,Gen Z,Overweight,Normal Blood Pressure
+43.0,male,19.2,99,diabetic,one,non-smoker,northeast,8627.54,Millennials,Healthy Weight,Normal Blood Pressure
+56.0,female,36.6,100,non-diabetic,none,non-smoker,northwest,8671.19,Gen X,Obese,Normal Blood Pressure
+30.0,male,22.5,97,diabetic,none,non-smoker,northeast,8688.86,Millennials,Healthy Weight,Normal Blood Pressure
+26.0,male,28.7,93,non-diabetic,one,non-smoker,southwest,8703.46,Gen Z,Overweight,Normal Blood Pressure
+21.0,male,40.4,98,non-diabetic,two,non-smoker,northwest,8733.23,Gen Z,Obese,Normal Blood Pressure
+18.0,male,32.3,98,diabetic,one,non-smoker,northwest,8765.25,Gen Z,Obese,Normal Blood Pressure
+29.0,male,25.4,87,diabetic,none,non-smoker,southwest,8782.47,Millennials,Overweight,Normal Blood Pressure
+29.0,male,37.0,84,diabetic,none,non-smoker,southwest,8798.59,Millennials,Obese,Normal Blood Pressure
+43.0,female,28.9,95,non-diabetic,two,non-smoker,southwest,8823.28,Millennials,Overweight,Normal Blood Pressure
+33.0,female,33.7,81,diabetic,one,non-smoker,northeast,8823.99,Millennials,Obese,Normal Blood Pressure
+46.0,female,30.2,99,diabetic,two,non-smoker,southwest,8825.09,Millennials,Obese,Normal Blood Pressure
+31.0,male,26.4,100,diabetic,none,non-smoker,northwest,8827.21,Millennials,Overweight,Normal Blood Pressure
+22.0,male,32.2,95,diabetic,none,non-smoker,northwest,8835.26,Gen Z,Obese,Normal Blood Pressure
+34.0,female,32.2,96,diabetic,one,non-smoker,southeast,8871.15,Millennials,Obese,Normal Blood Pressure
+35.0,male,21.9,99,non-diabetic,three,non-smoker,northeast,8891.14,Millennials,Healthy Weight,Normal Blood Pressure
+54.0,female,29.5,99,non-diabetic,one,non-smoker,northwest,8930.93,Gen X,Overweight,Normal Blood Pressure
+43.0,female,25.6,100,diabetic,none,non-smoker,southwest,8932.08,Millennials,Overweight,Normal Blood Pressure
+43.0,male,43.9,89,diabetic,three,non-smoker,southeast,8944.12,Millennials,Obese,Normal Blood Pressure
+38.0,male,31.4,98,diabetic,one,non-smoker,northeast,8964.06,Millennials,Obese,Normal Blood Pressure
+45.0,female,24.2,98,non-diabetic,five,non-smoker,northwest,8965.8,Millennials,Healthy Weight,Normal Blood Pressure
+23.0,male,30.2,95,non-diabetic,two,non-smoker,southwest,8968.33,Gen Z,Obese,Normal Blood Pressure
+32.0,male,37.3,85,non-diabetic,two,non-smoker,southeast,8978.19,Millennials,Obese,Normal Blood Pressure
+37.0,female,29.9,85,non-diabetic,none,non-smoker,northwest,8988.16,Millennials,Overweight,Normal Blood Pressure
+50.0,male,37.1,96,non-diabetic,one,non-smoker,southeast,9048.03,Gen X,Obese,Normal Blood Pressure
+22.0,male,44.8,92,diabetic,one,non-smoker,southeast,9058.73,Gen Z,Obese,Normal Blood Pressure
+55.0,female,25.2,81,diabetic,two,non-smoker,northeast,9095.07,Gen X,Overweight,Normal Blood Pressure
+48.0,female,25.7,93,non-diabetic,three,non-smoker,southwest,9101.8,Gen X,Overweight,Normal Blood Pressure
+43.0,male,34.1,89,diabetic,none,non-smoker,southeast,9140.95,Millennials,Obese,Normal Blood Pressure
+34.0,male,36.7,92,non-diabetic,none,non-smoker,southwest,9144.57,Millennials,Obese,Normal Blood Pressure
+46.0,male,31.6,91,non-diabetic,none,non-smoker,northwest,9174.14,Millennials,Obese,Normal Blood Pressure
+56.0,female,21.3,100,non-diabetic,one,non-smoker,southwest,9182.17,Gen X,Healthy Weight,Normal Blood Pressure
+34.0,female,20.0,91,diabetic,two,non-smoker,northwest,9193.84,Millennials,Healthy Weight,Normal Blood Pressure
+19.0,male,29.6,94,non-diabetic,five,non-smoker,northeast,9222.4,Gen Z,Overweight,Normal Blood Pressure
+50.0,male,25.5,86,diabetic,two,non-smoker,northeast,9225.26,Gen X,Overweight,Normal Blood Pressure
+43.0,female,28.9,84,diabetic,one,non-smoker,northwest,9249.5,Millennials,Overweight,Normal Blood Pressure
+57.0,female,20.6,98,non-diabetic,none,non-smoker,southwest,9264.8,Gen X,Healthy Weight,Normal Blood Pressure
+23.0,male,25.8,88,diabetic,one,non-smoker,northeast,9282.48,Gen Z,Overweight,Normal Blood Pressure
+43.0,female,34.1,81,non-diabetic,none,non-smoker,southeast,9283.56,Millennials,Obese,Normal Blood Pressure
+44.0,male,29.8,82,diabetic,one,non-smoker,northeast,9288.03,Millennials,Overweight,Normal Blood Pressure
+23.0,male,31.4,94,diabetic,one,non-smoker,northeast,9290.14,Gen Z,Obese,Normal Blood Pressure
+33.0,male,25.7,80,non-diabetic,three,non-smoker,northwest,9301.89,Millennials,Overweight,Normal Blood Pressure
+39.0,male,37.5,90,diabetic,two,non-smoker,southeast,9304.7,Millennials,Obese,Normal Blood Pressure
+45.0,male,22.4,83,diabetic,none,non-smoker,northeast,9361.33,Millennials,Healthy Weight,Normal Blood Pressure
+37.0,male,30.0,95,non-diabetic,one,non-smoker,southeast,9377.9,Millennials,Obese,Normal Blood Pressure
+34.0,male,36.0,100,diabetic,one,non-smoker,southeast,9386.16,Millennials,Obese,Normal Blood Pressure
+20.0,male,39.7,90,non-diabetic,one,non-smoker,southwest,9391.35,Gen Z,Obese,Normal Blood Pressure
+31.0,female,32.3,82,diabetic,two,non-smoker,northeast,9411.01,Millennials,Obese,Normal Blood Pressure
+58.0,female,30.8,93,non-diabetic,three,non-smoker,southwest,9414.92,Gen X,Obese,Normal Blood Pressure
+49.0,female,48.1,81,diabetic,two,non-smoker,northeast,9432.93,Gen X,Obese,Normal Blood Pressure
+40.0,female,27.3,100,non-diabetic,one,non-smoker,northeast,9447.25,Millennials,Overweight,Normal Blood Pressure
+41.0,female,27.4,86,non-diabetic,one,non-smoker,northeast,9447.38,Millennials,Overweight,Normal Blood Pressure
+39.0,male,29.5,98,non-diabetic,none,non-smoker,southeast,9487.64,Millennials,Overweight,Normal Blood Pressure
+37.0,male,24.8,85,non-diabetic,three,non-smoker,northeast,9500.57,Millennials,Healthy Weight,Normal Blood Pressure
+43.0,male,41.5,82,non-diabetic,none,non-smoker,southeast,9504.31,Millennials,Obese,Normal Blood Pressure
+27.0,female,44.7,98,non-diabetic,none,non-smoker,northeast,9541.7,Gen Z,Obese,Normal Blood Pressure
+27.0,female,46.1,106,non-diabetic,one,non-smoker,southeast,9549.57,Gen Z,Obese,Normal Blood Pressure
+34.0,male,34.3,105,non-diabetic,three,non-smoker,southwest,9563.03,Millennials,Obese,Normal Blood Pressure
+56.0,female,22.6,97,non-diabetic,one,non-smoker,northwest,9566.99,Gen X,Healthy Weight,Normal Blood Pressure
+57.0,female,34.8,87,non-diabetic,one,non-smoker,northwest,9583.89,Gen X,Obese,Normal Blood Pressure
+40.0,male,27.5,81,diabetic,one,non-smoker,northeast,9617.66,Millennials,Overweight,Normal Blood Pressure
+50.0,male,29.8,86,diabetic,three,non-smoker,northwest,9620.33,Gen X,Overweight,Normal Blood Pressure
+60.0,female,31.2,88,diabetic,none,non-smoker,southwest,9625.92,Baby Boomers,Obese,Normal Blood Pressure
+48.0,male,32.3,88,diabetic,two,non-smoker,southwest,9630.4,Gen X,Obese,Normal Blood Pressure
+26.0,female,37.4,103,diabetic,none,non-smoker,southwest,9634.54,Gen Z,Obese,Normal Blood Pressure
+42.0,female,18.1,84,diabetic,none,non-smoker,northwest,9644.25,Millennials,Underweight,Normal Blood Pressure
+44.0,female,40.0,96,non-diabetic,three,non-smoker,northeast,9704.67,Millennials,Obese,Normal Blood Pressure
+59.0,female,26.6,83,non-diabetic,two,non-smoker,northeast,9715.84,Baby Boomers,Overweight,Normal Blood Pressure
+32.0,male,33.3,102,diabetic,none,non-smoker,northeast,9722.77,Millennials,Obese,Normal Blood Pressure
+26.0,male,30.2,99,non-diabetic,one,non-smoker,southwest,9724.53,Gen Z,Obese,Normal Blood Pressure
+49.0,male,47.7,88,non-diabetic,one,non-smoker,southeast,9748.91,Gen X,Obese,Normal Blood Pressure
+53.0,female,30.8,105,non-diabetic,one,non-smoker,northeast,9778.35,Gen X,Obese,Normal Blood Pressure
+25.0,male,24.3,89,non-diabetic,five,non-smoker,southeast,9788.87,Gen Z,Healthy Weight,Normal Blood Pressure
+41.0,female,42.7,105,non-diabetic,two,non-smoker,southeast,9800.89,Millennials,Obese,Normal Blood Pressure
+46.0,male,31.6,106,non-diabetic,none,non-smoker,southwest,9850.43,Millennials,Obese,Normal Blood Pressure
+36.0,female,21.6,109,diabetic,one,non-smoker,southeast,9855.13,Millennials,Healthy Weight,Normal Blood Pressure
+26.0,female,25.8,110,non-diabetic,one,non-smoker,southwest,9861.03,Gen Z,Overweight,Normal Blood Pressure
+19.0,male,24.3,89,diabetic,none,non-smoker,northwest,9863.47,Gen Z,Healthy Weight,Normal Blood Pressure
+34.0,female,33.9,84,non-diabetic,none,non-smoker,northeast,9866.3,Millennials,Obese,Normal Blood Pressure
+39.0,male,28.9,82,diabetic,none,non-smoker,northwest,9869.81,Millennials,Overweight,Normal Blood Pressure
+28.0,female,34.2,86,non-diabetic,one,non-smoker,southwest,9872.7,Gen Z,Obese,Normal Blood Pressure
+27.0,female,40.7,100,non-diabetic,none,non-smoker,northeast,9875.68,Gen Z,Obese,Normal Blood Pressure
+30.0,female,37.7,80,non-diabetic,one,non-smoker,southeast,9877.61,Millennials,Obese,Normal Blood Pressure
+27.0,female,39.5,90,non-diabetic,one,non-smoker,southwest,9880.07,Gen Z,Obese,Normal Blood Pressure
+49.0,female,30.1,100,diabetic,one,non-smoker,northwest,9910.36,Gen X,Obese,Normal Blood Pressure
+24.0,male,27.7,109,diabetic,one,non-smoker,northeast,9957.72,Gen Z,Overweight,Normal Blood Pressure
+24.0,male,32.3,105,non-diabetic,one,non-smoker,northeast,9964.06,Gen Z,Obese,Normal Blood Pressure
+45.0,female,18.3,105,non-diabetic,none,non-smoker,northwest,9991.04,Millennials,Underweight,Normal Blood Pressure
+42.0,female,32.3,101,diabetic,two,non-smoker,northeast,10043.25,Millennials,Obese,Normal Blood Pressure
+42.0,male,21.4,104,non-diabetic,one,non-smoker,southwest,10065.41,Millennials,Healthy Weight,Normal Blood Pressure
+40.0,male,30.5,91,non-diabetic,none,non-smoker,northeast,10072.06,Millennials,Obese,Normal Blood Pressure
+27.0,male,36.1,104,diabetic,one,non-smoker,southwest,10085.85,Gen Z,Obese,Normal Blood Pressure
+34.0,male,25.8,100,diabetic,five,non-smoker,southwest,10096.97,Millennials,Overweight,Normal Blood Pressure
+27.0,female,27.1,103,non-diabetic,one,non-smoker,northeast,10106.13,Gen Z,Overweight,Normal Blood Pressure
+52.0,female,23.5,93,non-diabetic,two,non-smoker,southeast,10107.22,Gen X,Healthy Weight,Normal Blood Pressure
+44.0,female,33.9,100,diabetic,three,non-smoker,northwest,10115.01,Millennials,Obese,Normal Blood Pressure
+36.0,female,31.6,99,non-diabetic,two,non-smoker,southwest,10118.42,Millennials,Obese,Normal Blood Pressure
+18.0,male,30.8,94,non-diabetic,three,non-smoker,northeast,10141.14,Gen Z,Obese,Normal Blood Pressure
+29.0,female,23.2,109,non-diabetic,two,non-smoker,northwest,10156.78,Millennials,Healthy Weight,Normal Blood Pressure
+36.0,female,23.2,104,diabetic,none,non-smoker,northeast,10197.77,Millennials,Healthy Weight,Normal Blood Pressure
+30.0,male,29.9,90,non-diabetic,none,non-smoker,southwest,10214.64,Millennials,Overweight,Normal Blood Pressure
+32.0,male,38.3,92,diabetic,none,non-smoker,southeast,10226.28,Millennials,Obese,Normal Blood Pressure
+45.0,male,30.2,89,non-diabetic,none,non-smoker,northwest,10231.5,Millennials,Obese,Normal Blood Pressure
+31.0,male,28.7,107,diabetic,three,non-smoker,northwest,10264.44,Millennials,Overweight,Normal Blood Pressure
+19.0,male,32.3,93,diabetic,three,non-smoker,northwest,10269.46,Gen Z,Obese,Normal Blood Pressure
+29.0,male,38.6,82,diabetic,two,non-smoker,southwest,10325.21,Millennials,Obese,Normal Blood Pressure
+53.0,female,31.2,86,diabetic,none,non-smoker,southeast,10338.93,Gen X,Obese,Normal Blood Pressure
+29.0,female,26.6,105,diabetic,none,non-smoker,northwest,10355.64,Millennials,Overweight,Normal Blood Pressure
+25.0,female,33.3,80,diabetic,two,non-smoker,northeast,10370.91,Gen Z,Obese,Normal Blood Pressure
+51.0,female,36.6,104,non-diabetic,three,non-smoker,southeast,10381.48,Gen X,Obese,Normal Blood Pressure
+23.0,male,28.2,95,non-diabetic,four,non-smoker,northeast,10407.09,Gen Z,Overweight,Normal Blood Pressure
+30.0,male,24.0,86,non-diabetic,none,non-smoker,northeast,10422.92,Millennials,Healthy Weight,Normal Blood Pressure
+27.0,male,32.8,86,non-diabetic,none,non-smoker,northeast,10435.07,Gen Z,Obese,Normal Blood Pressure
+37.0,male,29.2,109,non-diabetic,one,non-smoker,southwest,10436.1,Millennials,Overweight,Normal Blood Pressure
+27.0,male,39.6,101,diabetic,one,non-smoker,southwest,10450.55,Gen Z,Obese,Normal Blood Pressure
+19.0,male,31.2,98,non-diabetic,one,non-smoker,northwest,10461.98,Gen Z,Obese,Normal Blood Pressure
+35.0,female,26.2,109,diabetic,two,non-smoker,northwest,10493.95,Millennials,Overweight,Normal Blood Pressure
+42.0,male,33.3,101,diabetic,three,non-smoker,southeast,10560.49,Millennials,Obese,Normal Blood Pressure
+56.0,female,33.3,81,diabetic,none,non-smoker,northeast,10564.88,Gen X,Obese,Normal Blood Pressure
+40.0,male,22.1,83,diabetic,none,non-smoker,southwest,10577.09,Millennials,Healthy Weight,Normal Blood Pressure
+55.0,female,39.6,91,non-diabetic,one,non-smoker,southeast,10579.71,Gen X,Obese,Normal Blood Pressure
+34.0,male,34.4,106,non-diabetic,none,non-smoker,southeast,10594.23,Millennials,Obese,Normal Blood Pressure
+25.0,male,27.6,110,diabetic,none,non-smoker,northwest,10594.5,Gen Z,Overweight,Normal Blood Pressure
+40.0,male,31.0,100,non-diabetic,three,non-smoker,northwest,10600.55,Millennials,Obese,Normal Blood Pressure
+29.0,male,39.6,92,non-diabetic,none,non-smoker,southwest,10601.41,Millennials,Obese,Normal Blood Pressure
+49.0,male,32.8,89,non-diabetic,none,non-smoker,northwest,10601.63,Gen X,Obese,Normal Blood Pressure
+40.0,male,40.3,96,non-diabetic,none,non-smoker,southwest,10602.39,Millennials,Obese,Normal Blood Pressure
+38.0,female,28.2,86,non-diabetic,three,non-smoker,southeast,10702.64,Millennials,Overweight,Normal Blood Pressure
+59.0,female,30.5,82,non-diabetic,none,non-smoker,southwest,10704.47,Baby Boomers,Obese,Normal Blood Pressure
+47.0,female,37.1,101,diabetic,none,non-smoker,southwest,10713.64,Gen X,Obese,Normal Blood Pressure
+26.0,male,35.6,106,diabetic,four,non-smoker,northeast,10736.87,Gen Z,Obese,Normal Blood Pressure
+30.0,male,21.5,87,non-diabetic,one,non-smoker,southwest,10791.96,Millennials,Healthy Weight,Normal Blood Pressure
+57.0,female,33.4,84,diabetic,none,non-smoker,southwest,10795.94,Gen X,Obese,Normal Blood Pressure
+34.0,male,29.0,110,diabetic,none,non-smoker,northeast,10796.35,Millennials,Overweight,Normal Blood Pressure
+43.0,female,30.8,106,diabetic,one,non-smoker,northeast,10797.34,Millennials,Obese,Normal Blood Pressure
+42.0,female,33.3,103,diabetic,two,non-smoker,southwest,10806.84,Millennials,Obese,Normal Blood Pressure
+28.0,male,32.7,103,non-diabetic,one,non-smoker,southeast,10807.49,Gen Z,Obese,Normal Blood Pressure
+38.0,male,33.6,80,diabetic,one,non-smoker,northwest,10825.25,Millennials,Obese,Normal Blood Pressure
+31.0,female,36.7,103,non-diabetic,two,non-smoker,northwest,10848.13,Millennials,Obese,Normal Blood Pressure
+26.0,female,32.7,90,diabetic,none,non-smoker,northeast,10923.93,Gen Z,Obese,Normal Blood Pressure
+51.0,female,31.9,102,diabetic,one,non-smoker,southeast,10928.85,Gen X,Obese,Normal Blood Pressure
+39.0,female,24.8,89,diabetic,one,non-smoker,northwest,10942.13,Millennials,Healthy Weight,Normal Blood Pressure
+37.0,male,23.7,91,diabetic,none,non-smoker,southwest,10959.33,Millennials,Healthy Weight,Normal Blood Pressure
+48.0,female,37.4,80,diabetic,one,non-smoker,northwest,10959.69,Gen X,Obese,Normal Blood Pressure
+39.0,male,28.1,106,diabetic,none,non-smoker,southwest,10965.45,Millennials,Overweight,Normal Blood Pressure
+30.0,male,33.7,103,diabetic,none,non-smoker,northwest,10976.25,Millennials,Obese,Normal Blood Pressure
+60.0,female,41.5,85,non-diabetic,four,non-smoker,southeast,10977.21,Baby Boomers,Obese,Normal Blood Pressure
+24.0,male,40.4,89,diabetic,none,non-smoker,southeast,10982.5,Gen Z,Obese,Normal Blood Pressure
+45.0,male,21.0,85,diabetic,two,non-smoker,southeast,11013.71,Millennials,Healthy Weight,Normal Blood Pressure
+50.0,female,27.9,83,diabetic,four,non-smoker,northwest,11015.17,Gen X,Overweight,Normal Blood Pressure
+49.0,female,41.2,92,diabetic,four,non-smoker,northwest,11033.66,Gen X,Obese,Normal Blood Pressure
+53.0,female,25.3,104,diabetic,none,non-smoker,southwest,11070.54,Gen X,Overweight,Normal Blood Pressure
+57.0,female,27.2,90,diabetic,none,non-smoker,southwest,11073.18,Gen X,Overweight,Normal Blood Pressure
+38.0,female,27.0,84,non-diabetic,none,non-smoker,northwest,11082.58,Millennials,Overweight,Normal Blood Pressure
+36.0,female,28.1,106,diabetic,three,non-smoker,northwest,11085.59,Millennials,Overweight,Normal Blood Pressure
+60.0,female,39.8,93,diabetic,none,non-smoker,southeast,11090.72,Baby Boomers,Obese,Normal Blood Pressure
+48.0,female,41.9,99,diabetic,none,non-smoker,southeast,11093.62,Gen X,Obese,Normal Blood Pressure
+46.0,female,26.7,102,diabetic,two,non-smoker,southwest,11150.78,Millennials,Overweight,Normal Blood Pressure
+47.0,female,35.9,104,non-diabetic,two,non-smoker,southwest,11163.57,Gen X,Obese,Normal Blood Pressure
+25.0,male,25.9,82,non-diabetic,none,non-smoker,northeast,11165.42,Gen Z,Overweight,Normal Blood Pressure
+26.0,female,31.7,106,diabetic,two,non-smoker,northwest,11187.66,Gen Z,Obese,Normal Blood Pressure
+47.0,male,26.4,84,non-diabetic,two,non-smoker,northeast,11244.38,Gen X,Overweight,Normal Blood Pressure
+31.0,male,28.6,86,non-diabetic,three,non-smoker,southwest,11253.42,Millennials,Overweight,Normal Blood Pressure
+49.0,male,36.6,84,non-diabetic,three,non-smoker,southwest,11264.54,Gen X,Obese,Normal Blood Pressure
+43.0,male,28.3,91,non-diabetic,one,non-smoker,northeast,11272.33,Millennials,Overweight,Normal Blood Pressure
+51.0,female,29.8,101,diabetic,none,non-smoker,northeast,11286.54,Gen X,Overweight,Normal Blood Pressure
+47.0,male,32.8,83,non-diabetic,three,non-smoker,northwest,11289.11,Gen X,Obese,Normal Blood Pressure
+37.0,female,33.7,91,diabetic,four,non-smoker,southwest,11299.34,Millennials,Obese,Normal Blood Pressure
+48.0,female,27.6,94,non-diabetic,one,non-smoker,northwest,11305.93,Gen X,Overweight,Normal Blood Pressure
+47.0,male,42.5,96,non-diabetic,one,non-smoker,southeast,11326.71,Gen X,Obese,Normal Blood Pressure
+38.0,male,23.3,98,non-diabetic,none,non-smoker,southwest,11345.52,Millennials,Healthy Weight,Normal Blood Pressure
+33.0,male,31.5,108,non-diabetic,none,non-smoker,northwest,11353.23,Millennials,Obese,Normal Blood Pressure
+47.0,male,34.0,105,non-diabetic,none,non-smoker,northwest,11356.66,Gen X,Obese,Normal Blood Pressure
+30.0,male,35.7,91,non-diabetic,none,non-smoker,southwest,11362.76,Millennials,Obese,Normal Blood Pressure
+32.0,male,36.1,80,non-diabetic,none,non-smoker,southeast,11363.28,Millennials,Obese,Normal Blood Pressure
+43.0,male,38.0,109,diabetic,none,non-smoker,southwest,11365.95,Millennials,Obese,Normal Blood Pressure
+42.0,male,49.1,109,diabetic,none,non-smoker,southeast,11381.33,Millennials,Obese,Normal Blood Pressure
+20.0,male,35.2,92,non-diabetic,one,non-smoker,northeast,11394.07,Gen Z,Obese,Normal Blood Pressure
+36.0,female,38.4,98,diabetic,two,non-smoker,northeast,11396.9,Millennials,Obese,Normal Blood Pressure
+37.0,female,44.7,81,non-diabetic,three,non-smoker,southwest,11411.69,Millennials,Obese,Normal Blood Pressure
+59.0,female,36.4,91,non-diabetic,three,non-smoker,northwest,11436.74,Baby Boomers,Obese,Normal Blood Pressure
+51.0,female,25.7,83,diabetic,none,non-smoker,northwest,11454.02,Gen X,Overweight,Normal Blood Pressure
+44.0,female,28.7,95,non-diabetic,none,non-smoker,southwest,11455.28,Millennials,Overweight,Normal Blood Pressure
+40.0,female,33.9,93,diabetic,none,non-smoker,southeast,11482.63,Millennials,Obese,Normal Blood Pressure
+33.0,male,32.2,85,non-diabetic,three,non-smoker,northeast,11488.32,Millennials,Obese,Normal Blood Pressure
+59.0,female,32.3,97,diabetic,one,non-smoker,northeast,11512.41,Baby Boomers,Obese,Normal Blood Pressure
+45.0,male,24.4,103,diabetic,four,non-smoker,northwest,11520.1,Millennials,Healthy Weight,Normal Blood Pressure
+35.0,male,18.3,95,non-diabetic,none,non-smoker,northeast,11534.87,Millennials,Underweight,Normal Blood Pressure
+57.0,female,46.7,101,diabetic,two,non-smoker,southwest,11538.42,Gen X,Obese,Normal Blood Pressure
+29.0,female,31.9,90,diabetic,five,non-smoker,southwest,11552.9,Millennials,Obese,Normal Blood Pressure
+26.0,male,27.9,97,diabetic,one,non-smoker,southeast,11554.22,Gen Z,Overweight,Normal Blood Pressure
+35.0,male,40.9,80,diabetic,none,non-smoker,northeast,11566.3,Millennials,Obese,Normal Blood Pressure
+18.0,male,43.7,101,non-diabetic,one,non-smoker,southwest,11576.13,Gen Z,Obese,Normal Blood Pressure
+42.0,female,28.3,85,non-diabetic,none,non-smoker,northeast,11657.72,Millennials,Overweight,Normal Blood Pressure
+43.0,female,28.6,110,non-diabetic,none,non-smoker,northeast,11658.12,Millennials,Overweight,Normal Blood Pressure
+40.0,female,28.8,83,non-diabetic,none,non-smoker,northeast,11658.38,Millennials,Overweight,Normal Blood Pressure
+31.0,female,35.8,109,non-diabetic,one,non-smoker,southwest,11674.13,Millennials,Obese,Normal Blood Pressure
+50.0,female,23.8,100,non-diabetic,two,non-smoker,northeast,11729.68,Gen X,Healthy Weight,Normal Blood Pressure
+29.0,male,28.6,85,diabetic,none,non-smoker,northwest,11735.88,Millennials,Overweight,Normal Blood Pressure
+37.0,male,27.0,83,diabetic,two,non-smoker,southwest,11737.85,Millennials,Overweight,Normal Blood Pressure
+54.0,female,28.1,83,non-diabetic,three,non-smoker,southwest,11741.73,Gen X,Overweight,Normal Blood Pressure
+34.0,male,26.4,105,diabetic,none,non-smoker,southeast,11743.3,Millennials,Overweight,Normal Blood Pressure
+29.0,male,34.4,108,non-diabetic,none,non-smoker,northwest,11743.93,Millennials,Obese,Normal Blood Pressure
+25.0,male,32.1,97,diabetic,one,non-smoker,northeast,11763.0,Gen Z,Obese,Normal Blood Pressure
+50.0,female,23.2,89,non-diabetic,none,non-smoker,northwest,11830.61,Gen X,Healthy Weight,Normal Blood Pressure
+37.0,female,22.8,97,diabetic,none,non-smoker,southeast,11833.78,Millennials,Healthy Weight,Normal Blood Pressure
+43.0,female,25.2,91,diabetic,none,non-smoker,southwest,11837.16,Millennials,Overweight,Normal Blood Pressure
+25.0,female,30.5,110,non-diabetic,none,non-smoker,northwest,11840.78,Gen Z,Obese,Normal Blood Pressure
+45.0,female,29.0,87,non-diabetic,none,non-smoker,southwest,11842.44,Millennials,Overweight,Normal Blood Pressure
+33.0,female,31.8,95,non-diabetic,none,non-smoker,northwest,11842.62,Millennials,Obese,Normal Blood Pressure
+26.0,female,33.1,110,non-diabetic,none,non-smoker,southwest,11848.14,Gen Z,Obese,Normal Blood Pressure
+50.0,female,39.1,100,non-diabetic,none,non-smoker,southeast,11856.41,Gen X,Obese,Normal Blood Pressure
+52.0,female,32.4,83,non-diabetic,one,non-smoker,northeast,11879.1,Gen X,Obese,Normal Blood Pressure
+39.0,female,29.7,103,non-diabetic,two,non-smoker,southwest,11881.36,Millennials,Overweight,Normal Blood Pressure
+38.0,female,30.1,92,diabetic,two,non-smoker,southeast,11881.97,Millennials,Obese,Normal Blood Pressure
+23.0,male,21.8,92,non-diabetic,two,non-smoker,southeast,11884.05,Gen Z,Healthy Weight,Normal Blood Pressure
+41.0,male,25.2,101,non-diabetic,none,non-smoker,northeast,11931.13,Millennials,Overweight,Normal Blood Pressure
+44.0,male,30.3,102,diabetic,none,non-smoker,northeast,11938.26,Millennials,Obese,Normal Blood Pressure
+36.0,male,34.9,88,diabetic,none,non-smoker,northeast,11944.59,Millennials,Obese,Normal Blood Pressure
+48.0,male,33.6,97,non-diabetic,one,non-smoker,northwest,11945.13,Gen X,Obese,Normal Blood Pressure
+45.0,male,32.0,83,non-diabetic,one,non-smoker,southeast,11946.63,Millennials,Obese,Normal Blood Pressure
+24.0,male,33.9,81,diabetic,three,non-smoker,southeast,11987.17,Gen Z,Obese,Normal Blood Pressure
+42.0,female,22.2,99,diabetic,none,non-smoker,northeast,12029.29,Millennials,Healthy Weight,Normal Blood Pressure
+47.0,female,20.1,99,non-diabetic,one,non-smoker,southwest,12032.33,Gen X,Healthy Weight,Normal Blood Pressure
+31.0,female,26.6,90,diabetic,one,non-smoker,northwest,12044.34,Millennials,Overweight,Normal Blood Pressure
+42.0,female,23.0,80,diabetic,three,non-smoker,southwest,12094.48,Millennials,Healthy Weight,Normal Blood Pressure
+30.0,female,28.9,94,non-diabetic,two,non-smoker,northeast,12096.65,Millennials,Overweight,Normal Blood Pressure
+27.0,female,30.8,97,diabetic,three,non-smoker,southwest,12105.32,Gen Z,Obese,Normal Blood Pressure
+50.0,male,25.5,87,non-diabetic,none,non-smoker,northwest,12124.99,Gen X,Overweight,Normal Blood Pressure
+23.0,male,28.8,86,non-diabetic,none,non-smoker,northwest,12129.61,Gen Z,Overweight,Normal Blood Pressure
+35.0,male,25.7,90,diabetic,none,non-smoker,southeast,12142.58,Millennials,Overweight,Normal Blood Pressure
+23.0,male,28.9,83,diabetic,none,non-smoker,southwest,12146.97,Gen Z,Overweight,Normal Blood Pressure
+34.0,female,27.2,96,non-diabetic,none,non-smoker,northwest,12222.9,Millennials,Overweight,Normal Blood Pressure
+33.0,female,28.2,96,diabetic,none,non-smoker,northwest,12224.35,Millennials,Overweight,Normal Blood Pressure
+37.0,female,33.4,84,diabetic,none,non-smoker,northwest,12231.61,Millennials,Obese,Normal Blood Pressure
+44.0,female,27.5,86,diabetic,none,non-smoker,southwest,12233.83,Millennials,Overweight,Normal Blood Pressure
+26.0,female,36.5,80,diabetic,none,non-smoker,northwest,12235.84,Gen Z,Obese,Normal Blood Pressure
+27.0,female,35.2,83,diabetic,none,non-smoker,southeast,12244.53,Gen Z,Obese,Normal Blood Pressure
+60.0,female,37.5,97,diabetic,two,non-smoker,southeast,12265.51,Baby Boomers,Obese,Normal Blood Pressure
+50.0,female,32.8,86,non-diabetic,two,non-smoker,northwest,12268.63,Gen X,Obese,Normal Blood Pressure
+59.0,female,33.5,97,non-diabetic,two,non-smoker,northwest,12269.69,Baby Boomers,Obese,Normal Blood Pressure
+46.0,male,24.7,84,non-diabetic,none,non-smoker,northeast,12323.94,Millennials,Healthy Weight,Normal Blood Pressure
+44.0,male,27.5,104,diabetic,one,non-smoker,southwest,12333.83,Millennials,Overweight,Normal Blood Pressure
+40.0,male,37.1,84,diabetic,one,non-smoker,southwest,12347.17,Millennials,Obese,Normal Blood Pressure
+33.0,male,36.1,80,diabetic,three,non-smoker,southwest,12363.55,Millennials,Obese,Normal Blood Pressure
+43.0,male,35.2,107,diabetic,none,non-smoker,northeast,12404.88,Millennials,Obese,Normal Blood Pressure
+36.0,female,33.0,82,diabetic,none,non-smoker,northeast,12430.95,Millennials,Obese,Normal Blood Pressure
+39.0,female,21.5,86,non-diabetic,three,non-smoker,northwest,12475.35,Millennials,Healthy Weight,Normal Blood Pressure
+25.0,female,24.6,80,diabetic,three,non-smoker,northwest,12479.71,Gen Z,Healthy Weight,Normal Blood Pressure
+28.0,female,40.8,87,diabetic,three,non-smoker,southeast,12485.8,Gen Z,Obese,Normal Blood Pressure
+33.0,female,35.8,109,non-diabetic,three,non-smoker,northwest,12495.29,Millennials,Obese,Normal Blood Pressure
+27.0,male,24.3,102,diabetic,none,non-smoker,northwest,12523.6,Gen Z,Healthy Weight,Normal Blood Pressure
+35.0,male,31.6,89,diabetic,none,non-smoker,southeast,12557.61,Millennials,Obese,Normal Blood Pressure
+36.0,male,43.4,96,non-diabetic,none,non-smoker,southwest,12574.05,Millennials,Obese,Normal Blood Pressure
+28.0,female,46.8,106,non-diabetic,five,non-smoker,southeast,12592.53,Gen Z,Obese,Normal Blood Pressure
+36.0,male,26.8,88,diabetic,one,non-smoker,northwest,12609.89,Millennials,Overweight,Normal Blood Pressure
+55.0,female,31.4,85,non-diabetic,none,non-smoker,northwest,12622.18,Gen X,Obese,Normal Blood Pressure
+57.0,female,25.7,94,non-diabetic,two,non-smoker,southeast,12629.17,Gen X,Overweight,Normal Blood Pressure
+57.0,female,24.5,88,diabetic,none,non-smoker,southeast,12629.9,Gen X,Healthy Weight,Normal Blood Pressure
+28.0,female,30.5,96,non-diabetic,none,non-smoker,southwest,12638.2,Gen Z,Obese,Normal Blood Pressure
+31.0,female,33.8,86,diabetic,two,non-smoker,northwest,12643.38,Millennials,Obese,Normal Blood Pressure
+59.0,female,35.1,84,diabetic,none,non-smoker,southwest,12644.59,Baby Boomers,Obese,Normal Blood Pressure
+28.0,female,38.0,110,diabetic,two,non-smoker,southwest,12646.21,Gen Z,Obese,Normal Blood Pressure
+54.0,female,38.1,82,non-diabetic,none,non-smoker,southeast,12648.7,Gen X,Obese,Normal Blood Pressure
+18.0,male,29.6,81,diabetic,none,non-smoker,northeast,12731.0,Gen Z,Overweight,Normal Blood Pressure
+34.0,male,37.0,92,diabetic,none,non-smoker,northeast,12741.17,Millennials,Obese,Normal Blood Pressure
+31.0,female,36.5,99,non-diabetic,none,non-smoker,northeast,12797.21,Millennials,Obese,Normal Blood Pressure
+39.0,female,26.5,94,non-diabetic,none,non-smoker,northeast,12815.44,Millennials,Overweight,Normal Blood Pressure
+38.0,male,17.3,82,diabetic,two,smoker,northeast,12829.46,Millennials,Underweight,Normal Blood Pressure
+49.0,male,39.1,102,diabetic,none,non-smoker,northeast,12890.06,Gen X,Obese,Normal Blood Pressure
+36.0,male,25.5,85,non-diabetic,one,non-smoker,northeast,12913.99,Millennials,Overweight,Normal Blood Pressure
+40.0,male,29.7,87,diabetic,two,non-smoker,southeast,12925.89,Millennials,Overweight,Normal Blood Pressure
+45.0,male,31.8,95,diabetic,two,non-smoker,southeast,12928.79,Millennials,Obese,Normal Blood Pressure
+33.0,male,33.7,98,non-diabetic,four,non-smoker,southeast,12949.16,Millennials,Obese,Normal Blood Pressure
+40.0,male,38.4,82,non-diabetic,none,non-smoker,northwest,12950.07,Millennials,Obese,Normal Blood Pressure
+19.0,male,21.4,85,diabetic,none,non-smoker,southwest,12957.12,Gen Z,Healthy Weight,Normal Blood Pressure
+43.0,male,37.4,81,non-diabetic,none,non-smoker,southwest,12979.36,Millennials,Obese,Normal Blood Pressure
+35.0,male,38.8,95,diabetic,none,non-smoker,southeast,12981.35,Millennials,Obese,Normal Blood Pressure
+25.0,male,39.9,88,non-diabetic,none,non-smoker,southeast,12982.87,Gen Z,Obese,Normal Blood Pressure
+58.0,female,24.0,109,non-diabetic,none,non-smoker,northwest,13012.21,Gen X,Healthy Weight,Normal Blood Pressure
+46.0,female,32.4,108,non-diabetic,one,non-smoker,northeast,13019.16,Millennials,Obese,Normal Blood Pressure
+35.0,female,28.2,105,diabetic,none,non-smoker,southwest,13041.92,Millennials,Overweight,Normal Blood Pressure
+31.0,female,25.4,100,diabetic,three,non-smoker,northeast,13047.33,Millennials,Overweight,Normal Blood Pressure
+25.0,female,44.0,88,diabetic,none,non-smoker,southwest,13063.88,Gen Z,Obese,Normal Blood Pressure
+23.0,male,24.3,90,non-diabetic,one,non-smoker,northwest,13112.6,Gen Z,Healthy Weight,Normal Blood Pressure
+55.0,female,28.0,105,diabetic,none,non-smoker,southwest,13126.68,Gen X,Overweight,Normal Blood Pressure
+20.0,male,23.7,89,diabetic,none,non-smoker,northeast,13129.6,Gen Z,Healthy Weight,Normal Blood Pressure
+22.0,male,33.5,101,diabetic,none,non-smoker,northeast,13143.34,Gen Z,Obese,Normal Blood Pressure
+19.0,male,33.9,80,diabetic,none,non-smoker,northeast,13143.86,Gen Z,Obese,Normal Blood Pressure
+49.0,female,18.3,82,diabetic,none,non-smoker,northeast,13204.29,Gen X,Underweight,Normal Blood Pressure
+43.0,female,27.6,105,diabetic,none,non-smoker,northeast,13217.09,Millennials,Overweight,Normal Blood Pressure
+43.0,female,34.3,91,diabetic,two,non-smoker,northeast,13224.06,Millennials,Obese,Normal Blood Pressure
+56.0,female,28.7,95,non-diabetic,one,non-smoker,southwest,13224.69,Gen X,Overweight,Normal Blood Pressure
+48.0,female,36.0,83,non-diabetic,none,non-smoker,northeast,13228.85,Gen X,Obese,Normal Blood Pressure
+38.0,male,30.0,110,diabetic,none,non-smoker,northwest,13352.1,Millennials,Obese,Normal Blood Pressure
+27.0,male,30.8,98,non-diabetic,none,non-smoker,southwest,13390.56,Gen Z,Obese,Normal Blood Pressure
+28.0,male,33.1,84,non-diabetic,none,non-smoker,southwest,13393.76,Gen Z,Obese,Normal Blood Pressure
+45.0,male,41.5,103,diabetic,none,non-smoker,southeast,13405.39,Millennials,Obese,Normal Blood Pressure
+45.0,female,21.1,94,non-diabetic,none,non-smoker,northwest,13415.04,Millennials,Healthy Weight,Normal Blood Pressure
+42.0,female,31.2,92,diabetic,none,non-smoker,northwest,13429.04,Millennials,Obese,Normal Blood Pressure
+51.0,female,32.3,83,diabetic,three,non-smoker,northeast,13430.27,Gen X,Obese,Normal Blood Pressure
+31.0,female,25.0,93,diabetic,none,non-smoker,southwest,13451.12,Millennials,Overweight,Normal Blood Pressure
+53.0,female,29.9,87,non-diabetic,none,non-smoker,southeast,13457.96,Gen X,Overweight,Normal Blood Pressure
+26.0,female,33.2,106,non-diabetic,none,non-smoker,southwest,13462.52,Gen Z,Obese,Normal Blood Pressure
+32.0,female,39.2,96,diabetic,none,non-smoker,southeast,13470.8,Millennials,Obese,Normal Blood Pressure
+40.0,female,39.2,84,non-diabetic,none,non-smoker,southwest,13470.86,Millennials,Obese,Normal Blood Pressure
+47.0,male,32.1,91,non-diabetic,none,non-smoker,northeast,13555.0,Gen X,Obese,Normal Blood Pressure
+28.0,female,31.8,110,diabetic,two,non-smoker,northeast,13607.37,Gen Z,Obese,Normal Blood Pressure
+41.0,female,22.0,89,non-diabetic,none,non-smoker,northeast,13616.36,Millennials,Healthy Weight,Normal Blood Pressure
+59.0,female,35.9,89,non-diabetic,none,non-smoker,northeast,13635.64,Baby Boomers,Obese,Normal Blood Pressure
+55.0,female,21.8,93,non-diabetic,one,non-smoker,northeast,13725.47,Gen X,Healthy Weight,Normal Blood Pressure
+33.0,male,21.6,106,diabetic,none,smoker,northeast,13747.87,Millennials,Healthy Weight,Normal Blood Pressure
+30.0,male,28.3,85,non-diabetic,none,non-smoker,northwest,13770.1,Millennials,Overweight,Normal Blood Pressure
+24.0,male,34.5,95,non-diabetic,none,non-smoker,southwest,13822.8,Gen Z,Obese,Normal Blood Pressure
+43.0,male,40.5,99,diabetic,none,non-smoker,southeast,13831.12,Millennials,Obese,Normal Blood Pressure
+52.0,female,21.7,81,diabetic,none,smoker,southwest,13844.51,Gen X,Healthy Weight,Normal Blood Pressure
+34.0,female,32.7,110,diabetic,none,non-smoker,northwest,13844.8,Millennials,Obese,Normal Blood Pressure
+35.0,female,31.8,95,non-diabetic,none,non-smoker,southwest,13880.95,Millennials,Obese,Normal Blood Pressure
+57.0,female,36.3,98,diabetic,none,non-smoker,southeast,13887.2,Gen X,Obese,Normal Blood Pressure
+57.0,female,36.9,88,diabetic,none,non-smoker,southeast,13887.97,Gen X,Obese,Normal Blood Pressure
+20.0,male,33.1,99,non-diabetic,three,non-smoker,southeast,13919.82,Gen Z,Obese,Normal Blood Pressure
+33.0,male,27.6,109,non-diabetic,one,non-smoker,northwest,13937.67,Millennials,Overweight,Normal Blood Pressure
+31.0,male,31.4,82,non-diabetic,none,non-smoker,northeast,13974.46,Millennials,Obese,Normal Blood Pressure
+43.0,male,36.8,85,non-diabetic,none,non-smoker,northeast,13981.85,Millennials,Obese,Normal Blood Pressure
+32.0,female,27.7,86,diabetic,three,non-smoker,southeast,14001.13,Millennials,Overweight,Normal Blood Pressure
+50.0,female,27.8,80,diabetic,three,non-smoker,southeast,14001.29,Gen X,Overweight,Normal Blood Pressure
+41.0,female,32.1,109,diabetic,three,non-smoker,southwest,14007.22,Millennials,Obese,Normal Blood Pressure
+42.0,female,31.7,83,non-diabetic,none,non-smoker,northeast,14043.48,Millennials,Obese,Normal Blood Pressure
+24.0,male,32.3,97,non-diabetic,two,non-smoker,northwest,14119.62,Gen Z,Obese,Normal Blood Pressure
+30.0,female,38.3,98,non-diabetic,none,non-smoker,southeast,14133.04,Millennials,Obese,Normal Blood Pressure
+47.0,male,37.9,103,non-diabetic,none,non-smoker,northwest,14210.54,Gen X,Obese,Normal Blood Pressure
+56.0,female,39.1,83,non-diabetic,two,non-smoker,southwest,14235.07,Gen X,Obese,Normal Blood Pressure
+28.0,female,25.1,103,non-diabetic,none,non-smoker,northwest,14254.61,Gen Z,Overweight,Normal Blood Pressure
+51.0,female,26.2,106,diabetic,none,non-smoker,northwest,14256.19,Gen X,Overweight,Normal Blood Pressure
+48.0,female,21.7,90,diabetic,none,smoker,northeast,14283.46,Gen X,Healthy Weight,Normal Blood Pressure
+38.0,female,36.0,83,non-diabetic,none,non-smoker,southeast,14313.85,Millennials,Obese,Normal Blood Pressure
+38.0,female,39.7,98,non-diabetic,none,non-smoker,southwest,14319.03,Millennials,Obese,Normal Blood Pressure
+40.0,male,21.7,107,diabetic,one,non-smoker,northwest,14349.85,Millennials,Healthy Weight,Normal Blood Pressure
+44.0,male,32.8,89,diabetic,one,non-smoker,southwest,14358.36,Millennials,Obese,Normal Blood Pressure
+41.0,female,26.7,94,diabetic,three,non-smoker,northwest,14382.71,Millennials,Overweight,Normal Blood Pressure
+45.0,female,28.8,101,non-diabetic,four,non-smoker,northeast,14394.4,Millennials,Overweight,Normal Blood Pressure
+45.0,male,26.4,103,diabetic,none,non-smoker,northeast,14394.56,Millennials,Overweight,Normal Blood Pressure
+37.0,male,38.2,97,diabetic,none,non-smoker,northeast,14410.93,Millennials,Obese,Normal Blood Pressure
+31.0,male,39.2,91,non-diabetic,one,non-smoker,southeast,14418.28,Millennials,Obese,Normal Blood Pressure
+41.0,female,23.2,98,non-diabetic,two,non-smoker,northwest,14426.07,Millennials,Healthy Weight,Normal Blood Pressure
+56.0,female,21.7,89,diabetic,none,non-smoker,northeast,14449.85,Gen X,Healthy Weight,Normal Blood Pressure
+47.0,female,23.1,92,non-diabetic,none,non-smoker,northeast,14451.84,Gen X,Healthy Weight,Normal Blood Pressure
+52.0,female,17.2,80,diabetic,two,smoker,northeast,14455.64,Gen X,Underweight,Normal Blood Pressure
+57.0,female,35.2,94,non-diabetic,one,non-smoker,southeast,14474.68,Gen X,Obese,Normal Blood Pressure
+50.0,male,25.5,84,non-diabetic,five,non-smoker,southeast,14478.33,Gen X,Overweight,Normal Blood Pressure
+40.0,female,20.5,87,diabetic,none,smoker,northeast,14571.89,Millennials,Healthy Weight,Normal Blood Pressure
+53.0,female,32.4,102,diabetic,three,non-smoker,northeast,14590.63,Gen X,Obese,Normal Blood Pressure
+35.0,female,33.0,105,non-diabetic,none,non-smoker,northwest,14692.67,Millennials,Obese,Normal Blood Pressure
+26.0,female,22.4,100,diabetic,none,smoker,northwest,14711.74,Gen Z,Healthy Weight,Normal Blood Pressure
+36.0,female,39.3,82,non-diabetic,none,non-smoker,northeast,14901.52,Millennials,Obese,Normal Blood Pressure
+21.0,male,25.6,95,non-diabetic,two,non-smoker,southwest,14988.43,Gen Z,Overweight,Normal Blood Pressure
+39.0,female,18.0,100,diabetic,two,smoker,northeast,15006.58,Millennials,Underweight,Normal Blood Pressure
+27.0,female,30.5,100,diabetic,two,non-smoker,northwest,15019.76,Gen Z,Obese,Normal Blood Pressure
+24.0,male,33.7,101,non-diabetic,three,non-smoker,southeast,15161.53,Gen Z,Obese,Normal Blood Pressure
+24.0,male,39.8,95,diabetic,three,non-smoker,southwest,15170.07,Gen Z,Obese,Normal Blood Pressure
+55.0,female,38.1,91,non-diabetic,two,non-smoker,northeast,15230.32,Gen X,Obese,Normal Blood Pressure
+37.0,female,21.9,89,diabetic,one,smoker,northeast,15359.1,Millennials,Healthy Weight,Normal Blood Pressure
+46.0,male,25.2,104,diabetic,none,smoker,northeast,15518.18,Millennials,Overweight,Normal Blood Pressure
+21.0,male,41.3,85,diabetic,three,non-smoker,northwest,15555.19,Gen Z,Obese,Normal Blood Pressure
+36.0,female,33.0,94,non-diabetic,three,non-smoker,northwest,15612.19,Millennials,Obese,Normal Blood Pressure
+27.0,male,24.1,95,non-diabetic,none,smoker,northwest,15817.99,Gen Z,Healthy Weight,Normal Blood Pressure
+30.0,male,19.3,84,diabetic,none,smoker,southwest,15820.7,Millennials,Healthy Weight,Normal Blood Pressure
+34.0,female,29.3,87,diabetic,four,non-smoker,southwest,15828.82,Millennials,Overweight,Normal Blood Pressure
+53.0,female,31.8,96,non-diabetic,two,non-smoker,northeast,16069.08,Gen X,Obese,Normal Blood Pressure
+55.0,female,39.1,83,diabetic,three,non-smoker,southeast,16085.13,Gen X,Obese,Normal Blood Pressure
+29.0,female,21.9,92,diabetic,none,smoker,northeast,16115.3,Millennials,Healthy Weight,Normal Blood Pressure
+30.0,male,22.9,108,non-diabetic,none,smoker,northeast,16138.76,Millennials,Healthy Weight,Normal Blood Pressure
+34.0,male,27.3,89,diabetic,none,smoker,southwest,16232.85,Millennials,Overweight,Normal Blood Pressure
+33.0,male,27.7,94,non-diabetic,none,smoker,southwest,16297.85,Millennials,Overweight,Normal Blood Pressure
+45.0,female,20.0,91,non-diabetic,three,smoker,northwest,16420.49,Millennials,Healthy Weight,Normal Blood Pressure
+50.0,male,26.0,81,diabetic,one,smoker,northwest,16450.89,Gen X,Overweight,Normal Blood Pressure
+44.0,female,30.1,105,diabetic,three,non-smoker,northwest,16455.71,Millennials,Obese,Normal Blood Pressure
+42.0,female,24.8,83,non-diabetic,none,smoker,southeast,16577.78,Millennials,Healthy Weight,Normal Blood Pressure
+44.0,male,31.0,88,non-diabetic,none,non-smoker,southeast,16586.5,Millennials,Obese,Normal Blood Pressure
+56.0,female,21.8,105,non-diabetic,one,smoker,northeast,16657.72,Gen X,Healthy Weight,Normal Blood Pressure
+50.0,female,19.1,108,non-diabetic,two,smoker,northeast,16776.3,Gen X,Healthy Weight,Normal Blood Pressure
+45.0,female,30.6,85,non-diabetic,one,non-smoker,northeast,16796.41,Millennials,Obese,Normal Blood Pressure
+60.0,female,27.9,97,non-diabetic,none,smoker,southwest,16884.92,Baby Boomers,Overweight,Normal Blood Pressure
+22.0,male,27.1,86,diabetic,none,smoker,southeast,17043.34,Gen Z,Overweight,Normal Blood Pressure
+25.0,female,28.3,107,diabetic,none,smoker,southwest,17081.08,Gen Z,Overweight,Normal Blood Pressure
+32.0,female,26.8,109,non-diabetic,one,smoker,southeast,17085.27,Millennials,Overweight,Normal Blood Pressure
+35.0,male,33.6,90,diabetic,four,non-smoker,northeast,17128.43,Millennials,Obese,Normal Blood Pressure
+45.0,male,27.4,83,non-diabetic,one,smoker,northeast,17178.68,Millennials,Overweight,Normal Blood Pressure
+44.0,male,19.8,106,non-diabetic,one,smoker,southeast,17179.52,Millennials,Healthy Weight,Normal Blood Pressure
+47.0,male,29.1,97,non-diabetic,none,smoker,northwest,17352.68,Gen X,Overweight,Normal Blood Pressure
+19.0,male,23.0,99,diabetic,two,smoker,northwest,17361.77,Gen Z,Healthy Weight,Normal Blood Pressure
+32.0,female,28.3,92,non-diabetic,none,smoker,northwest,17468.98,Millennials,Overweight,Normal Blood Pressure
+45.0,female,24.6,96,diabetic,none,smoker,southwest,17496.31,Millennials,Healthy Weight,Normal Blood Pressure
+23.0,male,28.0,86,diabetic,one,smoker,northwest,17560.38,Gen Z,Overweight,Normal Blood Pressure
+60.0,female,23.7,91,diabetic,one,non-smoker,southeast,17626.24,Baby Boomers,Healthy Weight,Normal Blood Pressure
+19.0,male,24.0,80,non-diabetic,three,smoker,southeast,17663.14,Gen Z,Healthy Weight,Normal Blood Pressure
+58.0,female,28.9,83,diabetic,none,smoker,northwest,17748.51,Gen X,Overweight,Normal Blood Pressure
+51.0,female,41.3,98,non-diabetic,none,non-smoker,northeast,17878.9,Gen X,Obese,Normal Blood Pressure
+22.0,male,24.8,100,non-diabetic,none,smoker,northeast,17904.53,Gen Z,Healthy Weight,Normal Blood Pressure
+59.0,female,31.8,103,diabetic,none,non-smoker,southeast,17929.3,Baby Boomers,Obese,Normal Blood Pressure
+36.0,male,25.7,96,diabetic,four,smoker,southwest,17942.11,Millennials,Overweight,Normal Blood Pressure
+29.0,female,28.3,103,non-diabetic,none,smoker,northwest,18033.97,Millennials,Overweight,Normal Blood Pressure
+33.0,male,29.7,102,diabetic,two,non-smoker,northwest,18157.88,Millennials,Overweight,Normal Blood Pressure
+35.0,female,32.2,107,diabetic,one,non-smoker,southeast,18218.16,Millennials,Obese,Normal Blood Pressure
+52.0,female,27.3,104,non-diabetic,three,smoker,southeast,18223.45,Gen X,Overweight,Normal Blood Pressure
+44.0,male,29.2,88,diabetic,none,smoker,southeast,18246.5,Millennials,Overweight,Normal Blood Pressure
+22.0,male,24.4,83,diabetic,three,smoker,southwest,18259.22,Gen Z,Healthy Weight,Normal Blood Pressure
+23.0,male,28.5,97,non-diabetic,none,smoker,northwest,18310.74,Gen Z,Overweight,Normal Blood Pressure
+36.0,female,28.5,87,non-diabetic,one,smoker,southeast,18328.24,Millennials,Overweight,Normal Blood Pressure
+45.0,female,22.6,96,non-diabetic,two,smoker,southwest,18608.26,Millennials,Healthy Weight,Normal Blood Pressure
+38.0,male,29.8,87,diabetic,none,smoker,northeast,18648.42,Millennials,Overweight,Normal Blood Pressure
+58.0,female,23.7,95,non-diabetic,three,smoker,northwest,18765.88,Gen X,Healthy Weight,Normal Blood Pressure
+21.0,male,20.1,108,non-diabetic,two,smoker,southeast,18767.74,Gen Z,Healthy Weight,Normal Blood Pressure
+39.0,female,30.4,92,diabetic,three,non-smoker,northwest,18804.75,Millennials,Obese,Normal Blood Pressure
+46.0,male,35.3,89,non-diabetic,two,non-smoker,southeast,18806.15,Millennials,Obese,Normal Blood Pressure
+30.0,female,27.9,84,non-diabetic,three,non-smoker,northwest,18838.7,Millennials,Overweight,Normal Blood Pressure
+26.0,female,32.4,81,non-diabetic,one,non-smoker,northeast,18903.49,Gen Z,Obese,Normal Blood Pressure
+41.0,female,27.6,89,non-diabetic,none,non-smoker,southwest,18955.22,Millennials,Overweight,Normal Blood Pressure
+36.0,male,38.8,99,non-diabetic,one,non-smoker,southeast,18963.17,Millennials,Obese,Normal Blood Pressure
+19.0,male,25.3,95,non-diabetic,two,smoker,southeast,18972.5,Gen Z,Overweight,Normal Blood Pressure
+60.0,female,18.3,82,diabetic,five,smoker,southwest,19023.26,Baby Boomers,Underweight,Normal Blood Pressure
+27.0,male,27.1,104,non-diabetic,one,smoker,southwest,19040.88,Gen Z,Overweight,Normal Blood Pressure
+50.0,female,27.9,83,non-diabetic,one,smoker,southeast,19107.78,Gen X,Overweight,Normal Blood Pressure
+27.0,female,35.7,96,diabetic,two,non-smoker,northeast,19144.58,Gen Z,Obese,Normal Blood Pressure
+43.0,male,25.9,81,non-diabetic,three,smoker,southwest,19199.94,Millennials,Overweight,Normal Blood Pressure
+33.0,male,36.2,100,non-diabetic,none,non-smoker,southeast,19214.71,Millennials,Obese,Normal Blood Pressure
+49.0,male,29.8,98,non-diabetic,none,smoker,southeast,19350.37,Gen X,Overweight,Normal Blood Pressure
+35.0,male,24.4,101,diabetic,three,smoker,southeast,19362.0,Millennials,Healthy Weight,Normal Blood Pressure
+34.0,male,33.3,93,diabetic,two,non-smoker,northwest,19442.35,Millennials,Obese,Normal Blood Pressure
+25.0,female,22.2,100,diabetic,two,smoker,southeast,19444.27,Gen Z,Healthy Weight,Normal Blood Pressure
+21.0,male,39.7,107,diabetic,four,non-smoker,northeast,19496.72,Gen Z,Obese,Normal Blood Pressure
+21.0,male,24.6,87,non-diabetic,none,smoker,southeast,19515.54,Gen Z,Healthy Weight,Normal Blood Pressure
+40.0,female,28.4,109,diabetic,one,smoker,southeast,19521.97,Millennials,Overweight,Normal Blood Pressure
+34.0,female,26.4,105,non-diabetic,none,smoker,southeast,19539.24,Millennials,Overweight,Normal Blood Pressure
+53.0,female,20.2,87,non-diabetic,one,smoker,northeast,19594.81,Gen X,Healthy Weight,Normal Blood Pressure
+47.0,male,33.8,98,non-diabetic,none,non-smoker,northwest,19673.34,Gen X,Obese,Normal Blood Pressure
+38.0,male,28.9,106,non-diabetic,one,smoker,southeast,19719.69,Millennials,Overweight,Normal Blood Pressure
+30.0,female,27.8,97,non-diabetic,three,non-smoker,southeast,19749.38,Millennials,Overweight,Normal Blood Pressure
+28.0,female,20.0,96,diabetic,two,smoker,northeast,19798.05,Gen Z,Healthy Weight,Normal Blood Pressure
+23.0,male,29.7,99,diabetic,three,smoker,southwest,19933.46,Gen Z,Overweight,Normal Blood Pressure
+43.0,female,23.4,82,diabetic,none,smoker,northeast,19964.75,Millennials,Healthy Weight,Normal Blood Pressure
+40.0,male,27.8,93,non-diabetic,one,smoker,northwest,20009.63,Millennials,Overweight,Normal Blood Pressure
+19.0,male,26.4,87,diabetic,none,smoker,northeast,20149.32,Gen Z,Overweight,Normal Blood Pressure
+28.0,female,21.8,81,non-diabetic,none,smoker,southwest,20167.34,Gen Z,Healthy Weight,Normal Blood Pressure
+42.0,female,27.5,110,diabetic,two,non-smoker,southwest,20177.67,Millennials,Overweight,Normal Blood Pressure
+44.0,female,28.0,82,diabetic,none,smoker,northwest,20234.85,Millennials,Overweight,Normal Blood Pressure
+20.0,male,29.6,91,diabetic,one,non-smoker,northeast,20277.81,Gen Z,Overweight,Normal Blood Pressure
+46.0,female,25.6,100,diabetic,one,smoker,northeast,20296.86,Millennials,Overweight,Normal Blood Pressure
+47.0,male,29.8,89,diabetic,none,non-smoker,southwest,20420.6,Gen X,Overweight,Normal Blood Pressure
+44.0,female,38.1,98,diabetic,three,non-smoker,southeast,20463.0,Millennials,Obese,Normal Blood Pressure
+19.0,male,37.3,102,diabetic,none,non-smoker,southwest,20630.28,Gen Z,Obese,Normal Blood Pressure
+19.0,male,40.3,110,non-diabetic,none,non-smoker,northeast,20709.02,Gen Z,Obese,Normal Blood Pressure
+39.0,male,28.7,81,non-diabetic,three,smoker,northwest,20745.99,Millennials,Overweight,Normal Blood Pressure
+49.0,male,28.0,106,non-diabetic,one,smoker,northeast,20773.63,Gen X,Overweight,Normal Blood Pressure
+43.0,male,33.0,85,non-diabetic,none,non-smoker,southeast,20781.49,Millennials,Obese,Normal Blood Pressure
+42.0,female,33.3,107,non-diabetic,none,non-smoker,northeast,20878.78,Millennials,Obese,Normal Blood Pressure
+30.0,male,27.7,89,diabetic,two,smoker,northeast,20984.09,Millennials,Overweight,Normal Blood Pressure
+37.0,male,28.3,109,diabetic,one,smoker,southwest,21082.16,Millennials,Overweight,Normal Blood Pressure
+43.0,male,22.9,106,diabetic,two,smoker,northwest,21098.55,Millennials,Healthy Weight,Normal Blood Pressure
+38.0,male,20.9,98,non-diabetic,none,smoker,southeast,21195.82,Millennials,Healthy Weight,Normal Blood Pressure
+44.0,male,24.4,110,non-diabetic,none,smoker,southeast,21223.68,Millennials,Healthy Weight,Normal Blood Pressure
+44.0,male,29.6,91,diabetic,none,non-smoker,southwest,21232.18,Millennials,Overweight,Normal Blood Pressure
+33.0,male,24.6,87,diabetic,two,smoker,northeast,21259.38,Millennials,Healthy Weight,Normal Blood Pressure
+45.0,female,30.1,83,diabetic,none,non-smoker,northeast,21344.85,Millennials,Obese,Normal Blood Pressure
+54.0,female,26.6,99,non-diabetic,none,smoker,northwest,21348.71,Gen X,Overweight,Normal Blood Pressure
+22.0,male,28.1,95,diabetic,four,smoker,northwest,21472.48,Gen Z,Overweight,Normal Blood Pressure
+50.0,male,18.7,89,non-diabetic,none,non-smoker,northwest,21595.38,Gen X,Healthy Weight,Normal Blood Pressure
+59.0,female,24.9,108,non-diabetic,three,smoker,northeast,21659.93,Baby Boomers,Healthy Weight,Normal Blood Pressure
+26.0,female,23.7,94,diabetic,one,smoker,northwest,21677.28,Gen Z,Healthy Weight,Normal Blood Pressure
+38.0,female,25.3,104,diabetic,one,smoker,northeast,21771.34,Millennials,Overweight,Normal Blood Pressure
+34.0,female,26.9,105,non-diabetic,none,smoker,northwest,21774.32,Millennials,Overweight,Normal Blood Pressure
+39.0,male,37.4,99,diabetic,none,non-smoker,southwest,21797.0,Millennials,Obese,Normal Blood Pressure
+58.0,female,24.7,82,non-diabetic,two,smoker,northwest,21880.82,Gen X,Healthy Weight,Normal Blood Pressure
+48.0,male,25.4,99,non-diabetic,one,smoker,southeast,21978.68,Gen X,Overweight,Normal Blood Pressure
+34.0,male,22.7,107,diabetic,none,non-smoker,northwest,21984.47,Millennials,Healthy Weight,Normal Blood Pressure
+40.0,male,30.0,106,non-diabetic,none,smoker,southwest,22144.03,Millennials,Obese,Normal Blood Pressure
+40.0,female,24.0,87,diabetic,one,non-smoker,southeast,22192.44,Millennials,Healthy Weight,Normal Blood Pressure
+36.0,male,23.2,80,diabetic,one,smoker,southeast,22218.11,Millennials,Healthy Weight,Normal Blood Pressure
+60.0,female,28.1,84,non-diabetic,one,smoker,northeast,22331.57,Baby Boomers,Overweight,Normal Blood Pressure
+45.0,female,24.2,103,non-diabetic,two,non-smoker,northeast,22395.74,Millennials,Healthy Weight,Normal Blood Pressure
+40.0,male,20.0,110,diabetic,none,smoker,northeast,22412.65,Millennials,Healthy Weight,Normal Blood Pressure
+32.0,male,29.9,85,diabetic,one,smoker,northeast,22462.04,Millennials,Overweight,Normal Blood Pressure
+49.0,female,26.7,88,non-diabetic,two,smoker,southwest,22478.6,Gen X,Overweight,Normal Blood Pressure
+32.0,male,27.3,94,non-diabetic,two,non-smoker,northwest,22493.66,Millennials,Overweight,Normal Blood Pressure
+57.0,female,30.9,83,non-diabetic,none,non-smoker,northeast,23045.57,Gen X,Obese,Normal Blood Pressure
+27.0,female,27.8,87,diabetic,none,smoker,southeast,23065.42,Gen Z,Overweight,Normal Blood Pressure
+22.0,male,33.1,91,non-diabetic,none,non-smoker,southwest,23082.96,Gen Z,Obese,Normal Blood Pressure
+23.0,male,25.0,80,diabetic,two,non-smoker,northeast,23241.47,Gen Z,Overweight,Normal Blood Pressure
+43.0,female,22.9,84,diabetic,one,smoker,southeast,23244.79,Millennials,Healthy Weight,Normal Blood Pressure
+59.0,female,24.3,104,non-diabetic,one,non-smoker,northeast,23288.93,Baby Boomers,Healthy Weight,Normal Blood Pressure
+42.0,male,25.6,106,diabetic,two,smoker,southwest,23306.55,Millennials,Overweight,Normal Blood Pressure
+26.0,female,26.1,99,diabetic,one,smoker,northeast,23401.31,Gen Z,Overweight,Normal Blood Pressure
+36.0,male,34.1,89,non-diabetic,two,non-smoker,southeast,23563.02,Millennials,Obese,Normal Blood Pressure
+44.0,male,28.0,93,non-diabetic,one,smoker,southwest,23568.27,Millennials,Overweight,Normal Blood Pressure
+47.0,male,25.8,101,diabetic,two,smoker,northwest,23807.24,Gen X,Overweight,Normal Blood Pressure
+59.0,female,24.1,91,diabetic,one,smoker,northwest,23887.66,Baby Boomers,Healthy Weight,Normal Blood Pressure
+28.0,male,24.8,92,diabetic,two,smoker,northwest,23967.38,Gen Z,Healthy Weight,Normal Blood Pressure
+60.0,female,30.6,85,non-diabetic,two,non-smoker,northwest,24059.68,Baby Boomers,Obese,Normal Blood Pressure
+46.0,female,23.8,86,diabetic,three,smoker,northeast,24106.91,Millennials,Healthy Weight,Normal Blood Pressure
+58.0,female,25.9,102,non-diabetic,three,smoker,southeast,24180.93,Gen X,Overweight,Normal Blood Pressure
+51.0,female,41.9,106,non-diabetic,none,non-smoker,southeast,24227.34,Gen X,Obese,Normal Blood Pressure
+48.0,male,27.4,106,non-diabetic,none,smoker,northwest,24393.62,Gen X,Overweight,Normal Blood Pressure
+45.0,male,30.0,84,non-diabetic,none,non-smoker,northwest,24476.48,Millennials,Obese,Normal Blood Pressure
+53.0,female,25.1,104,non-diabetic,none,non-smoker,southeast,24513.09,Gen X,Overweight,Normal Blood Pressure
+39.0,female,27.6,104,diabetic,one,smoker,southwest,24520.26,Millennials,Overweight,Normal Blood Pressure
+43.0,female,27.6,107,non-diabetic,two,smoker,northwest,24535.7,Millennials,Overweight,Normal Blood Pressure
+46.0,male,27.6,84,non-diabetic,none,non-smoker,southwest,24603.05,Millennials,Overweight,Normal Blood Pressure
+27.0,female,25.3,93,diabetic,two,smoker,southeast,24667.42,Gen Z,Overweight,Normal Blood Pressure
+36.0,female,29.6,99,non-diabetic,four,non-smoker,northeast,24671.66,Millennials,Overweight,Normal Blood Pressure
+23.0,male,24.3,97,non-diabetic,three,smoker,northeast,24869.84,Gen Z,Healthy Weight,Normal Blood Pressure
+32.0,female,22.6,84,diabetic,three,smoker,northeast,24873.38,Millennials,Healthy Weight,Normal Blood Pressure
+58.0,female,38.1,94,non-diabetic,two,non-smoker,northeast,24915.05,Gen X,Obese,Normal Blood Pressure
+20.0,male,28.2,107,diabetic,three,smoker,northwest,24915.22,Gen Z,Overweight,Normal Blood Pressure
+35.0,female,23.2,86,non-diabetic,none,non-smoker,southeast,25081.77,Millennials,Healthy Weight,Normal Blood Pressure
+19.0,male,29.8,89,non-diabetic,three,smoker,southwest,25309.49,Gen Z,Overweight,Normal Blood Pressure
+29.0,male,32.1,85,non-diabetic,two,non-smoker,northeast,25333.33,Millennials,Obese,Normal Blood Pressure
+26.0,male,25.1,85,non-diabetic,three,smoker,southwest,25382.3,Gen Z,Overweight,Normal Blood Pressure
+19.0,male,25.5,85,diabetic,one,non-smoker,northeast,25517.11,Gen Z,Overweight,Normal Blood Pressure
+47.0,female,27.4,80,non-diabetic,none,non-smoker,northeast,25656.58,Gen X,Overweight,Normal Blood Pressure
+56.0,female,23.7,84,non-diabetic,none,smoker,northwest,25678.78,Gen X,Healthy Weight,Normal Blood Pressure
+32.0,male,26.4,95,diabetic,three,non-smoker,southeast,25992.82,Millennials,Overweight,Normal Blood Pressure
+29.0,female,32.7,128,diabetic,two,non-smoker,northwest,26018.95,Millennials,Obese,Elevated Blood Pressure
+32.0,male,26.7,115,diabetic,one,smoker,northwest,26109.33,Millennials,Overweight,Normal Blood Pressure
+57.0,female,24.4,104,diabetic,none,smoker,southeast,26125.67,Gen X,Healthy Weight,Normal Blood Pressure
+55.0,female,27.1,135,non-diabetic,one,non-smoker,southwest,26140.36,Gen X,Overweight,Hypertension Stage 1
+52.0,female,24.1,84,diabetic,one,non-smoker,southwest,26236.58,Gen X,Healthy Weight,Normal Blood Pressure
+38.0,female,35.9,128,non-diabetic,one,non-smoker,northeast,26392.26,Millennials,Obese,Elevated Blood Pressure
+43.0,male,36.8,126,non-diabetic,two,non-smoker,northwest,26467.1,Millennials,Obese,Elevated Blood Pressure
+31.0,male,23.8,126,diabetic,none,smoker,southeast,26926.51,Millennials,Healthy Weight,Elevated Blood Pressure
+28.0,male,31.5,94,diabetic,one,non-smoker,southeast,27000.98,Gen Z,Obese,Normal Blood Pressure
+46.0,female,23.0,137,diabetic,none,smoker,southeast,27037.91,Millennials,Healthy Weight,Hypertension Stage 1
+30.0,female,24.9,91,diabetic,none,non-smoker,southeast,27117.99,Millennials,Healthy Weight,Normal Blood Pressure
+20.0,male,29.0,101,non-diabetic,none,smoker,northeast,27218.44,Gen Z,Overweight,Normal Blood Pressure
+30.0,female,31.9,87,diabetic,three,non-smoker,southeast,27322.73,Millennials,Obese,Normal Blood Pressure
+36.0,male,31.4,81,diabetic,none,non-smoker,southeast,27346.04,Millennials,Obese,Normal Blood Pressure
+22.0,male,22.4,137,diabetic,two,non-smoker,northeast,27375.9,Gen Z,Healthy Weight,Hypertension Stage 1
+49.0,female,29.8,92,diabetic,none,smoker,southeast,27533.91,Gen X,Overweight,Normal Blood Pressure
+37.0,male,35.3,81,non-diabetic,one,non-smoker,southeast,27724.29,Millennials,Obese,Normal Blood Pressure
+53.0,female,26.3,119,non-diabetic,none,smoker,southeast,27808.73,Gen X,Overweight,Normal Blood Pressure
+22.0,male,36.1,80,non-diabetic,three,non-smoker,southwest,27941.29,Gen Z,Obese,Normal Blood Pressure
+23.0,male,26.7,123,diabetic,none,smoker,northeast,28101.33,Gen Z,Overweight,Elevated Blood Pressure
+33.0,female,36.5,118,non-diabetic,one,non-smoker,southeast,28287.9,Millennials,Obese,Normal Blood Pressure
+36.0,female,27.6,118,non-diabetic,one,non-smoker,northwest,28340.19,Millennials,Overweight,Normal Blood Pressure
+27.0,male,36.7,130,non-diabetic,one,non-smoker,northwest,28468.92,Gen Z,Obese,Hypertension Stage 1
+27.0,female,41.4,95,non-diabetic,one,non-smoker,northwest,28476.73,Gen Z,Obese,Normal Blood Pressure
+38.0,male,28.3,93,non-diabetic,one,smoker,northwest,28868.66,Millennials,Overweight,Normal Blood Pressure
+57.0,female,25.8,98,diabetic,none,non-smoker,northwest,28923.14,Gen X,Overweight,Normal Blood Pressure
+30.0,female,27.0,113,non-diabetic,none,smoker,northwest,28950.47,Millennials,Overweight,Normal Blood Pressure
+44.0,female,29.1,139,non-diabetic,none,smoker,northwest,29141.36,Millennials,Overweight,Hypertension Stage 1
+52.0,female,32.3,99,diabetic,two,non-smoker,northeast,29186.48,Gen X,Obese,Normal Blood Pressure
+47.0,female,26.9,114,diabetic,none,smoker,northwest,29330.98,Gen X,Overweight,Normal Blood Pressure
+55.0,female,27.7,111,diabetic,none,smoker,northeast,29523.17,Gen X,Overweight,Normal Blood Pressure
+27.0,male,37.7,95,non-diabetic,three,non-smoker,northwest,30063.58,Gen Z,Obese,Normal Blood Pressure
+19.0,male,24.7,97,diabetic,one,non-smoker,northwest,30166.62,Gen Z,Healthy Weight,Normal Blood Pressure
+39.0,male,29.8,110,non-diabetic,three,smoker,northeast,30184.94,Millennials,Overweight,Normal Blood Pressure
+32.0,male,28.6,132,non-diabetic,none,non-smoker,northeast,30260.0,Millennials,Overweight,Hypertension Stage 1
+36.0,male,25.4,84,non-diabetic,two,non-smoker,northwest,30284.64,Millennials,Overweight,Normal Blood Pressure
+30.0,female,29.9,95,diabetic,three,smoker,southeast,30942.19,Millennials,Overweight,Normal Blood Pressure
+45.0,female,36.9,122,diabetic,one,non-smoker,northeast,31620.0,Millennials,Obese,Elevated Blood Pressure
+18.0,male,29.7,103,non-diabetic,two,non-smoker,northeast,32108.66,Gen Z,Overweight,Normal Blood Pressure
+46.0,male,30.3,114,diabetic,none,smoker,southeast,32548.34,Millennials,Obese,Normal Blood Pressure
+25.0,female,17.8,83,non-diabetic,two,smoker,northwest,32734.19,Gen Z,Underweight,Normal Blood Pressure
+37.0,male,28.3,88,non-diabetic,three,smoker,northwest,32787.46,Millennials,Overweight,Normal Blood Pressure
+33.0,female,30.0,81,diabetic,none,smoker,northwest,33307.55,Millennials,Obese,Normal Blood Pressure
+29.0,female,37.5,106,diabetic,two,non-smoker,northwest,33471.97,Millennials,Obese,Normal Blood Pressure
+29.0,male,30.7,94,non-diabetic,none,smoker,northeast,33475.82,Millennials,Obese,Normal Blood Pressure
+47.0,male,31.7,129,diabetic,none,smoker,northeast,33732.69,Gen X,Obese,Elevated Blood Pressure
+46.0,male,31.9,82,diabetic,none,smoker,northwest,33750.29,Millennials,Obese,Normal Blood Pressure
+48.0,female,30.2,129,diabetic,none,smoker,southwest,33900.65,Gen X,Obese,Elevated Blood Pressure
+59.0,female,30.4,80,non-diabetic,none,smoker,northwest,33907.55,Baby Boomers,Obese,Normal Blood Pressure
+36.0,female,31.4,136,diabetic,none,smoker,southwest,34166.27,Millennials,Obese,Hypertension Stage 1
+30.0,male,31.1,136,non-diabetic,none,smoker,northeast,34254.05,Millennials,Obese,Hypertension Stage 1
+22.0,male,31.7,115,non-diabetic,two,smoker,southeast,34303.17,Gen Z,Obese,Normal Blood Pressure
+30.0,female,33.1,93,diabetic,none,smoker,southeast,34439.86,Millennials,Obese,Normal Blood Pressure
+40.0,male,32.7,98,non-diabetic,none,smoker,southwest,34472.84,Millennials,Obese,Normal Blood Pressure
+45.0,male,33.5,81,non-diabetic,none,smoker,northeast,34617.84,Millennials,Obese,Normal Blood Pressure
+32.0,male,31.7,125,non-diabetic,none,smoker,southeast,34672.15,Millennials,Obese,Elevated Blood Pressure
+26.0,male,34.8,94,diabetic,none,smoker,southwest,34779.62,Gen Z,Obese,Normal Blood Pressure
+32.0,male,31.1,114,diabetic,one,smoker,southeast,34806.47,Millennials,Obese,Normal Blood Pressure
+20.0,male,34.9,124,diabetic,none,smoker,southwest,34828.65,Gen Z,Obese,Elevated Blood Pressure
+46.0,female,31.4,111,non-diabetic,none,smoker,southwest,34838.87,Millennials,Obese,Normal Blood Pressure
+22.0,male,22.9,80,non-diabetic,none,smoker,northeast,35069.37,Gen Z,Healthy Weight,Normal Blood Pressure
+23.0,male,28.5,106,non-diabetic,none,smoker,northeast,35147.53,Gen Z,Overweight,Normal Blood Pressure
+32.0,female,26.8,107,non-diabetic,one,non-smoker,southwest,35160.13,Millennials,Overweight,Normal Blood Pressure
+25.0,male,30.8,140,diabetic,none,smoker,southwest,35491.64,Gen Z,Obese,Hypertension Stage 2
+22.0,male,35.6,97,diabetic,none,smoker,southwest,35585.58,Gen Z,Obese,Normal Blood Pressure
+56.0,female,31.0,129,diabetic,three,smoker,southeast,35595.59,Gen X,Obese,Elevated Blood Pressure
+30.0,female,32.8,98,non-diabetic,two,smoker,southeast,36021.01,Millennials,Obese,Normal Blood Pressure
+40.0,male,32.9,87,diabetic,two,smoker,southwest,36085.22,Millennials,Obese,Normal Blood Pressure
+22.0,male,33.3,117,non-diabetic,two,smoker,southeast,36124.57,Gen Z,Obese,Normal Blood Pressure
+34.0,female,36.9,131,non-diabetic,none,smoker,southeast,36149.48,Millennials,Obese,Hypertension Stage 1
+28.0,male,31.7,105,diabetic,three,smoker,northeast,36189.1,Gen Z,Obese,Normal Blood Pressure
+37.0,male,34.4,126,non-diabetic,none,smoker,southwest,36197.7,Millennials,Obese,Elevated Blood Pressure
+35.0,male,37.0,108,diabetic,none,smoker,northwest,36219.41,Millennials,Obese,Normal Blood Pressure
+32.0,male,38.2,135,diabetic,none,smoker,southeast,36307.8,Millennials,Obese,Hypertension Stage 1
+31.0,female,34.7,96,non-diabetic,two,smoker,southwest,36397.58,Millennials,Obese,Normal Blood Pressure
+55.0,female,33.3,86,non-diabetic,four,non-smoker,southeast,36580.28,Gen X,Obese,Normal Blood Pressure
+20.0,male,35.3,86,non-diabetic,none,smoker,southwest,36837.47,Gen Z,Obese,Normal Blood Pressure
+60.0,female,32.5,97,non-diabetic,none,smoker,northwest,36898.73,Baby Boomers,Obese,Normal Blood Pressure
+50.0,female,34.8,140,diabetic,two,non-smoker,southwest,36910.61,Gen X,Obese,Hypertension Stage 2
+46.0,male,35.5,140,diabetic,none,smoker,southeast,36950.26,Millennials,Obese,Hypertension Stage 2
+48.0,female,33.5,124,non-diabetic,none,smoker,southwest,37079.37,Gen X,Obese,Elevated Blood Pressure
+32.0,female,36.1,97,diabetic,none,smoker,southeast,37133.9,Millennials,Obese,Normal Blood Pressure
+41.0,male,37.6,127,diabetic,one,smoker,southeast,37165.16,Millennials,Obese,Elevated Blood Pressure
+58.0,female,30.8,139,non-diabetic,none,smoker,northeast,37270.15,Gen X,Obese,Hypertension Stage 1
+31.0,male,35.6,106,non-diabetic,three,smoker,northwest,37465.34,Millennials,Obese,Normal Blood Pressure
+40.0,male,37.1,119,non-diabetic,two,smoker,southeast,37484.45,Millennials,Obese,Normal Blood Pressure
+20.0,male,33.6,103,non-diabetic,one,smoker,northeast,37607.53,Gen Z,Obese,Normal Blood Pressure
+47.0,female,31.9,89,diabetic,one,smoker,northeast,37701.88,Gen X,Obese,Normal Blood Pressure
+19.0,male,34.4,106,non-diabetic,none,smoker,southeast,37742.58,Gen Z,Obese,Normal Blood Pressure
+48.0,male,27.8,81,diabetic,none,smoker,southwest,37829.72,Gen X,Overweight,Normal Blood Pressure
+46.0,male,40.2,89,non-diabetic,none,smoker,southeast,38126.25,Millennials,Obese,Normal Blood Pressure
+42.0,male,26.1,131,diabetic,one,smoker,southeast,38245.59,Millennials,Overweight,Hypertension Stage 1
+29.0,male,35.8,124,non-diabetic,one,smoker,southeast,38282.75,Millennials,Obese,Elevated Blood Pressure
+34.0,male,39.4,85,non-diabetic,two,smoker,southwest,38344.57,Millennials,Obese,Normal Blood Pressure
+32.0,male,33.4,112,diabetic,two,smoker,southwest,38415.47,Millennials,Obese,Normal Blood Pressure
+27.0,female,36.7,140,non-diabetic,two,smoker,northeast,38511.63,Gen Z,Obese,Hypertension Stage 2
+29.0,male,35.2,85,non-diabetic,one,smoker,southeast,38709.18,Millennials,Obese,Normal Blood Pressure
+22.0,male,36.3,123,non-diabetic,two,smoker,southwest,38711.0,Gen Z,Obese,Elevated Blood Pressure
+28.0,male,34.4,137,non-diabetic,three,smoker,northwest,38746.36,Gen Z,Obese,Hypertension Stage 1
+25.0,female,42.2,131,diabetic,none,smoker,southeast,38792.69,Gen Z,Obese,Hypertension Stage 1
+26.0,male,30.2,88,non-diabetic,two,smoker,southwest,38998.55,Gen Z,Obese,Normal Blood Pressure
+29.0,male,34.2,101,diabetic,one,smoker,northeast,39047.29,Millennials,Obese,Normal Blood Pressure
+20.0,male,32.8,99,diabetic,one,smoker,northeast,39125.33,Gen Z,Obese,Normal Blood Pressure
+42.0,male,37.8,106,non-diabetic,two,smoker,southwest,39241.44,Millennials,Obese,Normal Blood Pressure
+21.0,male,31.4,89,diabetic,one,smoker,northeast,39556.49,Gen Z,Obese,Normal Blood Pressure
+37.0,male,30.8,125,diabetic,three,smoker,northeast,39597.41,Millennials,Obese,Elevated Blood Pressure
+22.0,male,42.1,119,non-diabetic,none,smoker,southeast,39611.76,Gen Z,Obese,Normal Blood Pressure
+46.0,male,44.9,138,diabetic,none,smoker,southeast,39722.75,Millennials,Obese,Hypertension Stage 1
+40.0,female,30.5,93,diabetic,one,smoker,northwest,39725.52,Millennials,Obese,Normal Blood Pressure
+27.0,male,30.9,139,non-diabetic,none,smoker,southwest,39727.61,Gen Z,Obese,Hypertension Stage 1
+43.0,male,36.7,139,diabetic,one,smoker,northeast,39774.28,Millennials,Obese,Hypertension Stage 1
+38.0,female,34.8,132,non-diabetic,two,smoker,southwest,39836.52,Millennials,Obese,Hypertension Stage 1
+47.0,male,37.1,114,diabetic,one,smoker,southeast,39871.7,Gen X,Obese,Normal Blood Pressure
+50.0,female,34.1,82,diabetic,three,smoker,northwest,39983.43,Gen X,Obese,Normal Blood Pressure
+40.0,female,32.8,107,diabetic,two,smoker,northwest,40003.33,Millennials,Obese,Normal Blood Pressure
+30.0,male,35.3,89,non-diabetic,two,smoker,southwest,40103.89,Millennials,Obese,Normal Blood Pressure
+50.0,male,34.1,86,non-diabetic,four,smoker,southwest,40182.25,Gen X,Obese,Normal Blood Pressure
+21.0,male,35.8,116,non-diabetic,one,smoker,southeast,40273.65,Gen Z,Obese,Normal Blood Pressure
+54.0,female,38.4,85,diabetic,none,smoker,southeast,40419.02,Gen X,Obese,Normal Blood Pressure
+43.0,male,30.5,96,diabetic,three,smoker,northwest,40720.55,Millennials,Obese,Normal Blood Pressure
+43.0,female,42.8,105,diabetic,one,smoker,northeast,40904.2,Millennials,Obese,Normal Blood Pressure
+42.0,female,39.1,131,diabetic,three,smoker,southeast,40932.43,Millennials,Obese,Hypertension Stage 1
+45.0,female,32.6,108,diabetic,three,smoker,southeast,40941.29,Millennials,Obese,Normal Blood Pressure
+27.0,female,33.1,128,non-diabetic,none,smoker,southeast,40974.16,Gen Z,Obese,Elevated Blood Pressure
+35.0,male,35.0,109,non-diabetic,one,smoker,northeast,41034.22,Millennials,Obese,Normal Blood Pressure
+31.0,male,31.8,95,non-diabetic,none,smoker,northeast,41097.16,Millennials,Obese,Normal Blood Pressure
+51.0,female,34.6,86,non-diabetic,one,smoker,southwest,41661.6,Gen X,Obese,Normal Blood Pressure
+27.0,male,36.2,98,non-diabetic,none,smoker,southeast,41676.08,Gen Z,Obese,Normal Blood Pressure
+37.0,male,32.3,115,non-diabetic,one,smoker,northeast,41919.1,Millennials,Obese,Normal Blood Pressure
+20.0,male,38.4,124,diabetic,three,smoker,southeast,41949.24,Gen Z,Obese,Elevated Blood Pressure
+46.0,male,30.8,120,non-diabetic,one,smoker,southeast,41999.52,Millennials,Obese,Normal Blood Pressure
+35.0,female,35.5,135,non-diabetic,none,smoker,northeast,42111.66,Millennials,Obese,Hypertension Stage 1
+37.0,male,45.5,124,diabetic,two,smoker,southeast,42112.24,Millennials,Obese,Elevated Blood Pressure
+39.0,male,36.0,98,diabetic,three,smoker,southeast,42124.52,Millennials,Obese,Normal Blood Pressure
+39.0,male,36.1,109,diabetic,one,smoker,southeast,42211.14,Millennials,Obese,Normal Blood Pressure
+42.0,male,30.7,117,diabetic,none,smoker,northeast,42303.69,Millennials,Obese,Normal Blood Pressure
+28.0,male,38.1,125,diabetic,two,smoker,southeast,42560.43,Gen Z,Obese,Elevated Blood Pressure
+25.0,male,36.5,104,diabetic,two,smoker,northwest,42760.5,Gen Z,Obese,Normal Blood Pressure
+49.0,male,34.2,98,diabetic,two,smoker,southwest,42856.84,Gen X,Obese,Normal Blood Pressure
+55.0,female,36.6,120,non-diabetic,one,smoker,southeast,42969.85,Gen X,Obese,Normal Blood Pressure
+32.0,female,39.0,96,diabetic,none,smoker,northwest,42983.46,Millennials,Obese,Normal Blood Pressure
+22.0,male,34.1,108,non-diabetic,none,smoker,northeast,43254.42,Gen Z,Obese,Normal Blood Pressure
+52.0,female,31.2,127,non-diabetic,none,smoker,northwest,43578.94,Gen X,Obese,Elevated Blood Pressure
+47.0,male,41.9,140,diabetic,three,smoker,northeast,43753.34,Gen X,Obese,Hypertension Stage 2
+36.0,male,31.8,94,diabetic,two,smoker,southeast,43813.87,Millennials,Obese,Normal Blood Pressure
+45.0,female,40.4,123,non-diabetic,two,smoker,southeast,43896.38,Millennials,Obese,Elevated Blood Pressure
+28.0,male,33.6,101,diabetic,none,smoker,northwest,43921.18,Gen Z,Obese,Normal Blood Pressure
+36.0,female,30.2,130,non-diabetic,one,smoker,northwest,43943.88,Millennials,Obese,Hypertension Stage 1
+50.0,male,38.9,102,diabetic,two,smoker,southeast,44202.65,Gen X,Obese,Normal Blood Pressure
+26.0,male,34.2,99,non-diabetic,two,smoker,southeast,44260.75,Gen Z,Obese,Normal Blood Pressure
+45.0,female,38.1,115,diabetic,none,smoker,southeast,44400.41,Millennials,Obese,Normal Blood Pressure
+30.0,female,35.2,95,diabetic,none,smoker,southeast,44423.8,Millennials,Obese,Normal Blood Pressure
+50.0,male,52.6,110,non-diabetic,one,smoker,southeast,44501.4,Gen X,Obese,Normal Blood Pressure
+29.0,male,35.5,98,non-diabetic,two,smoker,southwest,44585.46,Millennials,Obese,Normal Blood Pressure
+60.0,female,35.0,92,diabetic,two,smoker,northeast,44641.2,Baby Boomers,Obese,Normal Blood Pressure
+35.0,female,32.5,134,diabetic,none,smoker,southeast,45008.96,Millennials,Obese,Hypertension Stage 1
+43.0,male,40.6,93,non-diabetic,two,smoker,northwest,45702.02,Millennials,Obese,Normal Blood Pressure
+42.0,male,32.0,83,diabetic,none,smoker,northeast,45710.21,Millennials,Obese,Normal Blood Pressure
+57.0,female,46.2,96,non-diabetic,none,smoker,southeast,45863.21,Gen X,Obese,Normal Blood Pressure
+43.0,female,47.6,112,diabetic,two,smoker,southwest,46113.51,Millennials,Obese,Normal Blood Pressure
+47.0,male,31.4,137,non-diabetic,three,smoker,northwest,46130.53,Gen X,Obese,Hypertension Stage 1
+20.0,male,42.4,104,non-diabetic,three,smoker,southeast,46151.12,Gen Z,Obese,Normal Blood Pressure
+47.0,female,43.9,104,non-diabetic,two,smoker,southeast,46200.99,Gen X,Obese,Normal Blood Pressure
+26.0,female,37.1,95,non-diabetic,three,smoker,northeast,46255.11,Gen Z,Obese,Normal Blood Pressure
+38.0,male,35.9,117,diabetic,none,smoker,southeast,46599.11,Millennials,Obese,Normal Blood Pressure
+56.0,female,36.9,110,non-diabetic,three,smoker,northwest,46661.44,Gen X,Obese,Normal Blood Pressure
+29.0,male,30.9,114,diabetic,three,smoker,northwest,46718.16,Millennials,Obese,Normal Blood Pressure
+22.0,male,33.9,97,non-diabetic,none,smoker,southeast,46889.26,Gen Z,Obese,Normal Blood Pressure
+23.0,male,35.1,121,non-diabetic,none,smoker,southeast,47055.53,Gen Z,Obese,Elevated Blood Pressure
+41.0,male,41.8,109,diabetic,two,smoker,southeast,47269.85,Millennials,Obese,Normal Blood Pressure
+49.0,female,31.3,111,non-diabetic,two,smoker,southwest,47291.06,Gen X,Obese,Normal Blood Pressure
+27.0,female,32.2,115,diabetic,two,smoker,southwest,47305.31,Gen Z,Obese,Normal Blood Pressure
+40.0,male,36.3,94,diabetic,one,smoker,southwest,47403.88,Millennials,Obese,Normal Blood Pressure
+19.0,male,42.9,104,diabetic,two,smoker,southeast,47462.89,Gen Z,Obese,Normal Blood Pressure
+26.0,male,37.0,81,non-diabetic,two,smoker,northwest,47496.49,Gen Z,Obese,Normal Blood Pressure
+33.0,female,36.8,117,diabetic,one,smoker,northeast,47896.79,Millennials,Obese,Normal Blood Pressure
+49.0,female,33.8,107,non-diabetic,one,smoker,southwest,47928.03,Gen X,Obese,Normal Blood Pressure
+39.0,male,39.9,115,non-diabetic,none,smoker,southwest,48173.36,Millennials,Obese,Normal Blood Pressure
+52.0,female,36.4,133,diabetic,one,smoker,northeast,48517.56,Gen X,Obese,Hypertension Stage 1
+26.0,male,40.6,113,diabetic,three,smoker,northeast,48549.18,Gen Z,Obese,Normal Blood Pressure
+49.0,male,40.9,107,non-diabetic,none,smoker,southeast,48673.56,Gen X,Obese,Normal Blood Pressure
+45.0,male,42.1,117,non-diabetic,one,smoker,southeast,48675.52,Millennials,Obese,Normal Blood Pressure
+52.0,female,37.7,109,diabetic,none,smoker,southwest,48824.45,Gen X,Obese,Normal Blood Pressure
+25.0,female,38.1,111,non-diabetic,none,smoker,southeast,48885.14,Gen Z,Obese,Normal Blood Pressure
+18.0,male,41.1,104,non-diabetic,one,smoker,southeast,48970.25,Gen Z,Obese,Normal Blood Pressure
+26.0,male,37.0,120,non-diabetic,two,smoker,southeast,49577.66,Gen Z,Obese,Normal Blood Pressure
+44.0,male,36.4,127,non-diabetic,one,smoker,southwest,51194.56,Millennials,Obese,Elevated Blood Pressure
+43.0,male,32.8,125,non-diabetic,none,smoker,southwest,52590.83,Millennials,Obese,Elevated Blood Pressure
+44.0,female,35.5,88,diabetic,none,smoker,northwest,55135.4,Millennials,Obese,Normal Blood Pressure
+59.0,female,38.1,120,non-diabetic,one,smoker,northeast,58571.07,Baby Boomers,Obese,Normal Blood Pressure
+30.0,male,34.5,91,diabetic,three,smoker,northwest,60021.4,Millennials,Obese,Normal Blood Pressure
+37.0,male,30.4,106,non-diabetic,none,smoker,southeast,62592.87,Millennials,Obese,Normal Blood Pressure
+30.0,female,47.4,101,non-diabetic,none,smoker,southeast,63770.43,Millennials,Obese,Normal Blood Pressure
